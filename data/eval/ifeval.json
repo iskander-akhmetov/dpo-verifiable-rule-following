@@ -1,0 +1,4556 @@
+[
+  {
+    "id": "ifeval_0001",
+    "prompt": "Write an informative paragraph about machine learning topic #1. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0002",
+    "prompt": "Summarize the benefits of AI verification in topic #2. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0003",
+    "prompt": "Formulate recommendations for evaluation task #3. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0004",
+    "prompt": "Describe an algorithm for step #4. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0005",
+    "prompt": "Explain the experimental protocol #5. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0006",
+    "prompt": "Formulate recommendations for evaluation task #6. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0007",
+    "prompt": "Output the metadata for record #7 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0008",
+    "prompt": "Formulate recommendations for evaluation task #8. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0009",
+    "prompt": "Formulate recommendations for evaluation task #9. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0010",
+    "prompt": "Formulate recommendations for evaluation task #10. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0011",
+    "prompt": "Formulate recommendations for evaluation task #11. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0012",
+    "prompt": "Formulate recommendations for evaluation task #12. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0013",
+    "prompt": "Write an informative paragraph about machine learning topic #13. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0014",
+    "prompt": "Summarize the benefits of AI verification in topic #14. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0015",
+    "prompt": "Formulate recommendations for evaluation task #15. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0016",
+    "prompt": "Describe an algorithm for step #16. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0017",
+    "prompt": "Explain the experimental protocol #17. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0018",
+    "prompt": "Formulate recommendations for evaluation task #18. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0019",
+    "prompt": "Output the metadata for record #19 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0020",
+    "prompt": "Formulate recommendations for evaluation task #20. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0021",
+    "prompt": "Formulate recommendations for evaluation task #21. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0022",
+    "prompt": "Formulate recommendations for evaluation task #22. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0023",
+    "prompt": "Formulate recommendations for evaluation task #23. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0024",
+    "prompt": "Formulate recommendations for evaluation task #24. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0025",
+    "prompt": "Write an informative paragraph about machine learning topic #25. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0026",
+    "prompt": "Summarize the benefits of AI verification in topic #26. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0027",
+    "prompt": "Formulate recommendations for evaluation task #27. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0028",
+    "prompt": "Describe an algorithm for step #28. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0029",
+    "prompt": "Explain the experimental protocol #29. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0030",
+    "prompt": "Formulate recommendations for evaluation task #30. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0031",
+    "prompt": "Output the metadata for record #31 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0032",
+    "prompt": "Formulate recommendations for evaluation task #32. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0033",
+    "prompt": "Formulate recommendations for evaluation task #33. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0034",
+    "prompt": "Formulate recommendations for evaluation task #34. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0035",
+    "prompt": "Formulate recommendations for evaluation task #35. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0036",
+    "prompt": "Formulate recommendations for evaluation task #36. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0037",
+    "prompt": "Write an informative paragraph about machine learning topic #37. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0038",
+    "prompt": "Summarize the benefits of AI verification in topic #38. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0039",
+    "prompt": "Formulate recommendations for evaluation task #39. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0040",
+    "prompt": "Describe an algorithm for step #40. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0041",
+    "prompt": "Explain the experimental protocol #41. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0042",
+    "prompt": "Formulate recommendations for evaluation task #42. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0043",
+    "prompt": "Output the metadata for record #43 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0044",
+    "prompt": "Formulate recommendations for evaluation task #44. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0045",
+    "prompt": "Formulate recommendations for evaluation task #45. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0046",
+    "prompt": "Formulate recommendations for evaluation task #46. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0047",
+    "prompt": "Formulate recommendations for evaluation task #47. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0048",
+    "prompt": "Formulate recommendations for evaluation task #48. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0049",
+    "prompt": "Write an informative paragraph about machine learning topic #49. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0050",
+    "prompt": "Summarize the benefits of AI verification in topic #50. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0051",
+    "prompt": "Formulate recommendations for evaluation task #51. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0052",
+    "prompt": "Describe an algorithm for step #52. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0053",
+    "prompt": "Explain the experimental protocol #53. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0054",
+    "prompt": "Formulate recommendations for evaluation task #54. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0055",
+    "prompt": "Output the metadata for record #55 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0056",
+    "prompt": "Formulate recommendations for evaluation task #56. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0057",
+    "prompt": "Formulate recommendations for evaluation task #57. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0058",
+    "prompt": "Formulate recommendations for evaluation task #58. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0059",
+    "prompt": "Formulate recommendations for evaluation task #59. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0060",
+    "prompt": "Formulate recommendations for evaluation task #60. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0061",
+    "prompt": "Write an informative paragraph about machine learning topic #61. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0062",
+    "prompt": "Summarize the benefits of AI verification in topic #62. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0063",
+    "prompt": "Formulate recommendations for evaluation task #63. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0064",
+    "prompt": "Describe an algorithm for step #64. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0065",
+    "prompt": "Explain the experimental protocol #65. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0066",
+    "prompt": "Formulate recommendations for evaluation task #66. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0067",
+    "prompt": "Output the metadata for record #67 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0068",
+    "prompt": "Formulate recommendations for evaluation task #68. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0069",
+    "prompt": "Formulate recommendations for evaluation task #69. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0070",
+    "prompt": "Formulate recommendations for evaluation task #70. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0071",
+    "prompt": "Formulate recommendations for evaluation task #71. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0072",
+    "prompt": "Formulate recommendations for evaluation task #72. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0073",
+    "prompt": "Write an informative paragraph about machine learning topic #73. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0074",
+    "prompt": "Summarize the benefits of AI verification in topic #74. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0075",
+    "prompt": "Formulate recommendations for evaluation task #75. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0076",
+    "prompt": "Describe an algorithm for step #76. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0077",
+    "prompt": "Explain the experimental protocol #77. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0078",
+    "prompt": "Formulate recommendations for evaluation task #78. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0079",
+    "prompt": "Output the metadata for record #79 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0080",
+    "prompt": "Formulate recommendations for evaluation task #80. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0081",
+    "prompt": "Formulate recommendations for evaluation task #81. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0082",
+    "prompt": "Formulate recommendations for evaluation task #82. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0083",
+    "prompt": "Formulate recommendations for evaluation task #83. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0084",
+    "prompt": "Formulate recommendations for evaluation task #84. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0085",
+    "prompt": "Write an informative paragraph about machine learning topic #85. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0086",
+    "prompt": "Summarize the benefits of AI verification in topic #86. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0087",
+    "prompt": "Formulate recommendations for evaluation task #87. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0088",
+    "prompt": "Describe an algorithm for step #88. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0089",
+    "prompt": "Explain the experimental protocol #89. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0090",
+    "prompt": "Formulate recommendations for evaluation task #90. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0091",
+    "prompt": "Output the metadata for record #91 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0092",
+    "prompt": "Formulate recommendations for evaluation task #92. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0093",
+    "prompt": "Formulate recommendations for evaluation task #93. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0094",
+    "prompt": "Formulate recommendations for evaluation task #94. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0095",
+    "prompt": "Formulate recommendations for evaluation task #95. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0096",
+    "prompt": "Formulate recommendations for evaluation task #96. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0097",
+    "prompt": "Write an informative paragraph about machine learning topic #97. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0098",
+    "prompt": "Summarize the benefits of AI verification in topic #98. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0099",
+    "prompt": "Formulate recommendations for evaluation task #99. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0100",
+    "prompt": "Describe an algorithm for step #100. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0101",
+    "prompt": "Explain the experimental protocol #101. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0102",
+    "prompt": "Formulate recommendations for evaluation task #102. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0103",
+    "prompt": "Output the metadata for record #103 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0104",
+    "prompt": "Formulate recommendations for evaluation task #104. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0105",
+    "prompt": "Formulate recommendations for evaluation task #105. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0106",
+    "prompt": "Formulate recommendations for evaluation task #106. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0107",
+    "prompt": "Formulate recommendations for evaluation task #107. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0108",
+    "prompt": "Formulate recommendations for evaluation task #108. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0109",
+    "prompt": "Write an informative paragraph about machine learning topic #109. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0110",
+    "prompt": "Summarize the benefits of AI verification in topic #110. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0111",
+    "prompt": "Formulate recommendations for evaluation task #111. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0112",
+    "prompt": "Describe an algorithm for step #112. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0113",
+    "prompt": "Explain the experimental protocol #113. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0114",
+    "prompt": "Formulate recommendations for evaluation task #114. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0115",
+    "prompt": "Output the metadata for record #115 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0116",
+    "prompt": "Formulate recommendations for evaluation task #116. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0117",
+    "prompt": "Formulate recommendations for evaluation task #117. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0118",
+    "prompt": "Formulate recommendations for evaluation task #118. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0119",
+    "prompt": "Formulate recommendations for evaluation task #119. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0120",
+    "prompt": "Formulate recommendations for evaluation task #120. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0121",
+    "prompt": "Write an informative paragraph about machine learning topic #121. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0122",
+    "prompt": "Summarize the benefits of AI verification in topic #122. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0123",
+    "prompt": "Formulate recommendations for evaluation task #123. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0124",
+    "prompt": "Describe an algorithm for step #124. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0125",
+    "prompt": "Explain the experimental protocol #125. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0126",
+    "prompt": "Formulate recommendations for evaluation task #126. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0127",
+    "prompt": "Output the metadata for record #127 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0128",
+    "prompt": "Formulate recommendations for evaluation task #128. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0129",
+    "prompt": "Formulate recommendations for evaluation task #129. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0130",
+    "prompt": "Formulate recommendations for evaluation task #130. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0131",
+    "prompt": "Formulate recommendations for evaluation task #131. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0132",
+    "prompt": "Formulate recommendations for evaluation task #132. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0133",
+    "prompt": "Write an informative paragraph about machine learning topic #133. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0134",
+    "prompt": "Summarize the benefits of AI verification in topic #134. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0135",
+    "prompt": "Formulate recommendations for evaluation task #135. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0136",
+    "prompt": "Describe an algorithm for step #136. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0137",
+    "prompt": "Explain the experimental protocol #137. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0138",
+    "prompt": "Formulate recommendations for evaluation task #138. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0139",
+    "prompt": "Output the metadata for record #139 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0140",
+    "prompt": "Formulate recommendations for evaluation task #140. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0141",
+    "prompt": "Formulate recommendations for evaluation task #141. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0142",
+    "prompt": "Formulate recommendations for evaluation task #142. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0143",
+    "prompt": "Formulate recommendations for evaluation task #143. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0144",
+    "prompt": "Formulate recommendations for evaluation task #144. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0145",
+    "prompt": "Write an informative paragraph about machine learning topic #145. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0146",
+    "prompt": "Summarize the benefits of AI verification in topic #146. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0147",
+    "prompt": "Formulate recommendations for evaluation task #147. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0148",
+    "prompt": "Describe an algorithm for step #148. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0149",
+    "prompt": "Explain the experimental protocol #149. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0150",
+    "prompt": "Formulate recommendations for evaluation task #150. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0151",
+    "prompt": "Output the metadata for record #151 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0152",
+    "prompt": "Formulate recommendations for evaluation task #152. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0153",
+    "prompt": "Formulate recommendations for evaluation task #153. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0154",
+    "prompt": "Formulate recommendations for evaluation task #154. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0155",
+    "prompt": "Formulate recommendations for evaluation task #155. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0156",
+    "prompt": "Formulate recommendations for evaluation task #156. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0157",
+    "prompt": "Write an informative paragraph about machine learning topic #157. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0158",
+    "prompt": "Summarize the benefits of AI verification in topic #158. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0159",
+    "prompt": "Formulate recommendations for evaluation task #159. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0160",
+    "prompt": "Describe an algorithm for step #160. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0161",
+    "prompt": "Explain the experimental protocol #161. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0162",
+    "prompt": "Formulate recommendations for evaluation task #162. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0163",
+    "prompt": "Output the metadata for record #163 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0164",
+    "prompt": "Formulate recommendations for evaluation task #164. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0165",
+    "prompt": "Formulate recommendations for evaluation task #165. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0166",
+    "prompt": "Formulate recommendations for evaluation task #166. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0167",
+    "prompt": "Formulate recommendations for evaluation task #167. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0168",
+    "prompt": "Formulate recommendations for evaluation task #168. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0169",
+    "prompt": "Write an informative paragraph about machine learning topic #169. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0170",
+    "prompt": "Summarize the benefits of AI verification in topic #170. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0171",
+    "prompt": "Formulate recommendations for evaluation task #171. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0172",
+    "prompt": "Describe an algorithm for step #172. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0173",
+    "prompt": "Explain the experimental protocol #173. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0174",
+    "prompt": "Formulate recommendations for evaluation task #174. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0175",
+    "prompt": "Output the metadata for record #175 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0176",
+    "prompt": "Formulate recommendations for evaluation task #176. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0177",
+    "prompt": "Formulate recommendations for evaluation task #177. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0178",
+    "prompt": "Formulate recommendations for evaluation task #178. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0179",
+    "prompt": "Formulate recommendations for evaluation task #179. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0180",
+    "prompt": "Formulate recommendations for evaluation task #180. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0181",
+    "prompt": "Write an informative paragraph about machine learning topic #181. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0182",
+    "prompt": "Summarize the benefits of AI verification in topic #182. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0183",
+    "prompt": "Formulate recommendations for evaluation task #183. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0184",
+    "prompt": "Describe an algorithm for step #184. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0185",
+    "prompt": "Explain the experimental protocol #185. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0186",
+    "prompt": "Formulate recommendations for evaluation task #186. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0187",
+    "prompt": "Output the metadata for record #187 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0188",
+    "prompt": "Formulate recommendations for evaluation task #188. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0189",
+    "prompt": "Formulate recommendations for evaluation task #189. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0190",
+    "prompt": "Formulate recommendations for evaluation task #190. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0191",
+    "prompt": "Formulate recommendations for evaluation task #191. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0192",
+    "prompt": "Formulate recommendations for evaluation task #192. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0193",
+    "prompt": "Write an informative paragraph about machine learning topic #193. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0194",
+    "prompt": "Summarize the benefits of AI verification in topic #194. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0195",
+    "prompt": "Formulate recommendations for evaluation task #195. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0196",
+    "prompt": "Describe an algorithm for step #196. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0197",
+    "prompt": "Explain the experimental protocol #197. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0198",
+    "prompt": "Formulate recommendations for evaluation task #198. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0199",
+    "prompt": "Output the metadata for record #199 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0200",
+    "prompt": "Formulate recommendations for evaluation task #200. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0201",
+    "prompt": "Formulate recommendations for evaluation task #201. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0202",
+    "prompt": "Formulate recommendations for evaluation task #202. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0203",
+    "prompt": "Formulate recommendations for evaluation task #203. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0204",
+    "prompt": "Formulate recommendations for evaluation task #204. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0205",
+    "prompt": "Write an informative paragraph about machine learning topic #205. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0206",
+    "prompt": "Summarize the benefits of AI verification in topic #206. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0207",
+    "prompt": "Formulate recommendations for evaluation task #207. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0208",
+    "prompt": "Describe an algorithm for step #208. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0209",
+    "prompt": "Explain the experimental protocol #209. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0210",
+    "prompt": "Formulate recommendations for evaluation task #210. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0211",
+    "prompt": "Output the metadata for record #211 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0212",
+    "prompt": "Formulate recommendations for evaluation task #212. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0213",
+    "prompt": "Formulate recommendations for evaluation task #213. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0214",
+    "prompt": "Formulate recommendations for evaluation task #214. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0215",
+    "prompt": "Formulate recommendations for evaluation task #215. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0216",
+    "prompt": "Formulate recommendations for evaluation task #216. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0217",
+    "prompt": "Write an informative paragraph about machine learning topic #217. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0218",
+    "prompt": "Summarize the benefits of AI verification in topic #218. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0219",
+    "prompt": "Formulate recommendations for evaluation task #219. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0220",
+    "prompt": "Describe an algorithm for step #220. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0221",
+    "prompt": "Explain the experimental protocol #221. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0222",
+    "prompt": "Formulate recommendations for evaluation task #222. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0223",
+    "prompt": "Output the metadata for record #223 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0224",
+    "prompt": "Formulate recommendations for evaluation task #224. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0225",
+    "prompt": "Formulate recommendations for evaluation task #225. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0226",
+    "prompt": "Formulate recommendations for evaluation task #226. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0227",
+    "prompt": "Formulate recommendations for evaluation task #227. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0228",
+    "prompt": "Formulate recommendations for evaluation task #228. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0229",
+    "prompt": "Write an informative paragraph about machine learning topic #229. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0230",
+    "prompt": "Summarize the benefits of AI verification in topic #230. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0231",
+    "prompt": "Formulate recommendations for evaluation task #231. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0232",
+    "prompt": "Describe an algorithm for step #232. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0233",
+    "prompt": "Explain the experimental protocol #233. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0234",
+    "prompt": "Formulate recommendations for evaluation task #234. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0235",
+    "prompt": "Output the metadata for record #235 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0236",
+    "prompt": "Formulate recommendations for evaluation task #236. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0237",
+    "prompt": "Formulate recommendations for evaluation task #237. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0238",
+    "prompt": "Formulate recommendations for evaluation task #238. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0239",
+    "prompt": "Formulate recommendations for evaluation task #239. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0240",
+    "prompt": "Formulate recommendations for evaluation task #240. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0241",
+    "prompt": "Write an informative paragraph about machine learning topic #241. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0242",
+    "prompt": "Summarize the benefits of AI verification in topic #242. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0243",
+    "prompt": "Formulate recommendations for evaluation task #243. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0244",
+    "prompt": "Describe an algorithm for step #244. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0245",
+    "prompt": "Explain the experimental protocol #245. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0246",
+    "prompt": "Formulate recommendations for evaluation task #246. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0247",
+    "prompt": "Output the metadata for record #247 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0248",
+    "prompt": "Formulate recommendations for evaluation task #248. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0249",
+    "prompt": "Formulate recommendations for evaluation task #249. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0250",
+    "prompt": "Formulate recommendations for evaluation task #250. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0251",
+    "prompt": "Formulate recommendations for evaluation task #251. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0252",
+    "prompt": "Formulate recommendations for evaluation task #252. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0253",
+    "prompt": "Write an informative paragraph about machine learning topic #253. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0254",
+    "prompt": "Summarize the benefits of AI verification in topic #254. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0255",
+    "prompt": "Formulate recommendations for evaluation task #255. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0256",
+    "prompt": "Describe an algorithm for step #256. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0257",
+    "prompt": "Explain the experimental protocol #257. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0258",
+    "prompt": "Formulate recommendations for evaluation task #258. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0259",
+    "prompt": "Output the metadata for record #259 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0260",
+    "prompt": "Formulate recommendations for evaluation task #260. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0261",
+    "prompt": "Formulate recommendations for evaluation task #261. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0262",
+    "prompt": "Formulate recommendations for evaluation task #262. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0263",
+    "prompt": "Formulate recommendations for evaluation task #263. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0264",
+    "prompt": "Formulate recommendations for evaluation task #264. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0265",
+    "prompt": "Write an informative paragraph about machine learning topic #265. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0266",
+    "prompt": "Summarize the benefits of AI verification in topic #266. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0267",
+    "prompt": "Formulate recommendations for evaluation task #267. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0268",
+    "prompt": "Describe an algorithm for step #268. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0269",
+    "prompt": "Explain the experimental protocol #269. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0270",
+    "prompt": "Formulate recommendations for evaluation task #270. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0271",
+    "prompt": "Output the metadata for record #271 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0272",
+    "prompt": "Formulate recommendations for evaluation task #272. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0273",
+    "prompt": "Formulate recommendations for evaluation task #273. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0274",
+    "prompt": "Formulate recommendations for evaluation task #274. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0275",
+    "prompt": "Formulate recommendations for evaluation task #275. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0276",
+    "prompt": "Formulate recommendations for evaluation task #276. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0277",
+    "prompt": "Write an informative paragraph about machine learning topic #277. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0278",
+    "prompt": "Summarize the benefits of AI verification in topic #278. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0279",
+    "prompt": "Formulate recommendations for evaluation task #279. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0280",
+    "prompt": "Describe an algorithm for step #280. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0281",
+    "prompt": "Explain the experimental protocol #281. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0282",
+    "prompt": "Formulate recommendations for evaluation task #282. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0283",
+    "prompt": "Output the metadata for record #283 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0284",
+    "prompt": "Formulate recommendations for evaluation task #284. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0285",
+    "prompt": "Formulate recommendations for evaluation task #285. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0286",
+    "prompt": "Formulate recommendations for evaluation task #286. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0287",
+    "prompt": "Formulate recommendations for evaluation task #287. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0288",
+    "prompt": "Formulate recommendations for evaluation task #288. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0289",
+    "prompt": "Write an informative paragraph about machine learning topic #289. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0290",
+    "prompt": "Summarize the benefits of AI verification in topic #290. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0291",
+    "prompt": "Formulate recommendations for evaluation task #291. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0292",
+    "prompt": "Describe an algorithm for step #292. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0293",
+    "prompt": "Explain the experimental protocol #293. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0294",
+    "prompt": "Formulate recommendations for evaluation task #294. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0295",
+    "prompt": "Output the metadata for record #295 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0296",
+    "prompt": "Formulate recommendations for evaluation task #296. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0297",
+    "prompt": "Formulate recommendations for evaluation task #297. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0298",
+    "prompt": "Formulate recommendations for evaluation task #298. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0299",
+    "prompt": "Formulate recommendations for evaluation task #299. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0300",
+    "prompt": "Formulate recommendations for evaluation task #300. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0301",
+    "prompt": "Write an informative paragraph about machine learning topic #301. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0302",
+    "prompt": "Summarize the benefits of AI verification in topic #302. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0303",
+    "prompt": "Formulate recommendations for evaluation task #303. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0304",
+    "prompt": "Describe an algorithm for step #304. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0305",
+    "prompt": "Explain the experimental protocol #305. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0306",
+    "prompt": "Formulate recommendations for evaluation task #306. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0307",
+    "prompt": "Output the metadata for record #307 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0308",
+    "prompt": "Formulate recommendations for evaluation task #308. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0309",
+    "prompt": "Formulate recommendations for evaluation task #309. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0310",
+    "prompt": "Formulate recommendations for evaluation task #310. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0311",
+    "prompt": "Formulate recommendations for evaluation task #311. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0312",
+    "prompt": "Formulate recommendations for evaluation task #312. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0313",
+    "prompt": "Write an informative paragraph about machine learning topic #313. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0314",
+    "prompt": "Summarize the benefits of AI verification in topic #314. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0315",
+    "prompt": "Formulate recommendations for evaluation task #315. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0316",
+    "prompt": "Describe an algorithm for step #316. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0317",
+    "prompt": "Explain the experimental protocol #317. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0318",
+    "prompt": "Formulate recommendations for evaluation task #318. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0319",
+    "prompt": "Output the metadata for record #319 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0320",
+    "prompt": "Formulate recommendations for evaluation task #320. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0321",
+    "prompt": "Formulate recommendations for evaluation task #321. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0322",
+    "prompt": "Formulate recommendations for evaluation task #322. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0323",
+    "prompt": "Formulate recommendations for evaluation task #323. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0324",
+    "prompt": "Formulate recommendations for evaluation task #324. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0325",
+    "prompt": "Write an informative paragraph about machine learning topic #325. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0326",
+    "prompt": "Summarize the benefits of AI verification in topic #326. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0327",
+    "prompt": "Formulate recommendations for evaluation task #327. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0328",
+    "prompt": "Describe an algorithm for step #328. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0329",
+    "prompt": "Explain the experimental protocol #329. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0330",
+    "prompt": "Formulate recommendations for evaluation task #330. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0331",
+    "prompt": "Output the metadata for record #331 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0332",
+    "prompt": "Formulate recommendations for evaluation task #332. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0333",
+    "prompt": "Formulate recommendations for evaluation task #333. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0334",
+    "prompt": "Formulate recommendations for evaluation task #334. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0335",
+    "prompt": "Formulate recommendations for evaluation task #335. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0336",
+    "prompt": "Formulate recommendations for evaluation task #336. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0337",
+    "prompt": "Write an informative paragraph about machine learning topic #337. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0338",
+    "prompt": "Summarize the benefits of AI verification in topic #338. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0339",
+    "prompt": "Formulate recommendations for evaluation task #339. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0340",
+    "prompt": "Describe an algorithm for step #340. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0341",
+    "prompt": "Explain the experimental protocol #341. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0342",
+    "prompt": "Formulate recommendations for evaluation task #342. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0343",
+    "prompt": "Output the metadata for record #343 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0344",
+    "prompt": "Formulate recommendations for evaluation task #344. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0345",
+    "prompt": "Formulate recommendations for evaluation task #345. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0346",
+    "prompt": "Formulate recommendations for evaluation task #346. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0347",
+    "prompt": "Formulate recommendations for evaluation task #347. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0348",
+    "prompt": "Formulate recommendations for evaluation task #348. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0349",
+    "prompt": "Write an informative paragraph about machine learning topic #349. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0350",
+    "prompt": "Summarize the benefits of AI verification in topic #350. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0351",
+    "prompt": "Formulate recommendations for evaluation task #351. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0352",
+    "prompt": "Describe an algorithm for step #352. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0353",
+    "prompt": "Explain the experimental protocol #353. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0354",
+    "prompt": "Formulate recommendations for evaluation task #354. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0355",
+    "prompt": "Output the metadata for record #355 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0356",
+    "prompt": "Formulate recommendations for evaluation task #356. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0357",
+    "prompt": "Formulate recommendations for evaluation task #357. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0358",
+    "prompt": "Formulate recommendations for evaluation task #358. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0359",
+    "prompt": "Formulate recommendations for evaluation task #359. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0360",
+    "prompt": "Formulate recommendations for evaluation task #360. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0361",
+    "prompt": "Write an informative paragraph about machine learning topic #361. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0362",
+    "prompt": "Summarize the benefits of AI verification in topic #362. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0363",
+    "prompt": "Formulate recommendations for evaluation task #363. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0364",
+    "prompt": "Describe an algorithm for step #364. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0365",
+    "prompt": "Explain the experimental protocol #365. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0366",
+    "prompt": "Formulate recommendations for evaluation task #366. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0367",
+    "prompt": "Output the metadata for record #367 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0368",
+    "prompt": "Formulate recommendations for evaluation task #368. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0369",
+    "prompt": "Formulate recommendations for evaluation task #369. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0370",
+    "prompt": "Formulate recommendations for evaluation task #370. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0371",
+    "prompt": "Formulate recommendations for evaluation task #371. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0372",
+    "prompt": "Formulate recommendations for evaluation task #372. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0373",
+    "prompt": "Write an informative paragraph about machine learning topic #373. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0374",
+    "prompt": "Summarize the benefits of AI verification in topic #374. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0375",
+    "prompt": "Formulate recommendations for evaluation task #375. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0376",
+    "prompt": "Describe an algorithm for step #376. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0377",
+    "prompt": "Explain the experimental protocol #377. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0378",
+    "prompt": "Formulate recommendations for evaluation task #378. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0379",
+    "prompt": "Output the metadata for record #379 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0380",
+    "prompt": "Formulate recommendations for evaluation task #380. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0381",
+    "prompt": "Formulate recommendations for evaluation task #381. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0382",
+    "prompt": "Formulate recommendations for evaluation task #382. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0383",
+    "prompt": "Formulate recommendations for evaluation task #383. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0384",
+    "prompt": "Formulate recommendations for evaluation task #384. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0385",
+    "prompt": "Write an informative paragraph about machine learning topic #385. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0386",
+    "prompt": "Summarize the benefits of AI verification in topic #386. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0387",
+    "prompt": "Formulate recommendations for evaluation task #387. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0388",
+    "prompt": "Describe an algorithm for step #388. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0389",
+    "prompt": "Explain the experimental protocol #389. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0390",
+    "prompt": "Formulate recommendations for evaluation task #390. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0391",
+    "prompt": "Output the metadata for record #391 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0392",
+    "prompt": "Formulate recommendations for evaluation task #392. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0393",
+    "prompt": "Formulate recommendations for evaluation task #393. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0394",
+    "prompt": "Formulate recommendations for evaluation task #394. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0395",
+    "prompt": "Formulate recommendations for evaluation task #395. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0396",
+    "prompt": "Formulate recommendations for evaluation task #396. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0397",
+    "prompt": "Write an informative paragraph about machine learning topic #397. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0398",
+    "prompt": "Summarize the benefits of AI verification in topic #398. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0399",
+    "prompt": "Formulate recommendations for evaluation task #399. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0400",
+    "prompt": "Describe an algorithm for step #400. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0401",
+    "prompt": "Explain the experimental protocol #401. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0402",
+    "prompt": "Formulate recommendations for evaluation task #402. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0403",
+    "prompt": "Output the metadata for record #403 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0404",
+    "prompt": "Formulate recommendations for evaluation task #404. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0405",
+    "prompt": "Formulate recommendations for evaluation task #405. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0406",
+    "prompt": "Formulate recommendations for evaluation task #406. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0407",
+    "prompt": "Formulate recommendations for evaluation task #407. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0408",
+    "prompt": "Formulate recommendations for evaluation task #408. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0409",
+    "prompt": "Write an informative paragraph about machine learning topic #409. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0410",
+    "prompt": "Summarize the benefits of AI verification in topic #410. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0411",
+    "prompt": "Formulate recommendations for evaluation task #411. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0412",
+    "prompt": "Describe an algorithm for step #412. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0413",
+    "prompt": "Explain the experimental protocol #413. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0414",
+    "prompt": "Formulate recommendations for evaluation task #414. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0415",
+    "prompt": "Output the metadata for record #415 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0416",
+    "prompt": "Formulate recommendations for evaluation task #416. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0417",
+    "prompt": "Formulate recommendations for evaluation task #417. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0418",
+    "prompt": "Formulate recommendations for evaluation task #418. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0419",
+    "prompt": "Formulate recommendations for evaluation task #419. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0420",
+    "prompt": "Formulate recommendations for evaluation task #420. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0421",
+    "prompt": "Write an informative paragraph about machine learning topic #421. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0422",
+    "prompt": "Summarize the benefits of AI verification in topic #422. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0423",
+    "prompt": "Formulate recommendations for evaluation task #423. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0424",
+    "prompt": "Describe an algorithm for step #424. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0425",
+    "prompt": "Explain the experimental protocol #425. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0426",
+    "prompt": "Formulate recommendations for evaluation task #426. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0427",
+    "prompt": "Output the metadata for record #427 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0428",
+    "prompt": "Formulate recommendations for evaluation task #428. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0429",
+    "prompt": "Formulate recommendations for evaluation task #429. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0430",
+    "prompt": "Formulate recommendations for evaluation task #430. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0431",
+    "prompt": "Formulate recommendations for evaluation task #431. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0432",
+    "prompt": "Formulate recommendations for evaluation task #432. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0433",
+    "prompt": "Write an informative paragraph about machine learning topic #433. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0434",
+    "prompt": "Summarize the benefits of AI verification in topic #434. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0435",
+    "prompt": "Formulate recommendations for evaluation task #435. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0436",
+    "prompt": "Describe an algorithm for step #436. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0437",
+    "prompt": "Explain the experimental protocol #437. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0438",
+    "prompt": "Formulate recommendations for evaluation task #438. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0439",
+    "prompt": "Output the metadata for record #439 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0440",
+    "prompt": "Formulate recommendations for evaluation task #440. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0441",
+    "prompt": "Formulate recommendations for evaluation task #441. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0442",
+    "prompt": "Formulate recommendations for evaluation task #442. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0443",
+    "prompt": "Formulate recommendations for evaluation task #443. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0444",
+    "prompt": "Formulate recommendations for evaluation task #444. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0445",
+    "prompt": "Write an informative paragraph about machine learning topic #445. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0446",
+    "prompt": "Summarize the benefits of AI verification in topic #446. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0447",
+    "prompt": "Formulate recommendations for evaluation task #447. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0448",
+    "prompt": "Describe an algorithm for step #448. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0449",
+    "prompt": "Explain the experimental protocol #449. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0450",
+    "prompt": "Formulate recommendations for evaluation task #450. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0451",
+    "prompt": "Output the metadata for record #451 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0452",
+    "prompt": "Formulate recommendations for evaluation task #452. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0453",
+    "prompt": "Formulate recommendations for evaluation task #453. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0454",
+    "prompt": "Formulate recommendations for evaluation task #454. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0455",
+    "prompt": "Formulate recommendations for evaluation task #455. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0456",
+    "prompt": "Formulate recommendations for evaluation task #456. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0457",
+    "prompt": "Write an informative paragraph about machine learning topic #457. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0458",
+    "prompt": "Summarize the benefits of AI verification in topic #458. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0459",
+    "prompt": "Formulate recommendations for evaluation task #459. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0460",
+    "prompt": "Describe an algorithm for step #460. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0461",
+    "prompt": "Explain the experimental protocol #461. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0462",
+    "prompt": "Formulate recommendations for evaluation task #462. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0463",
+    "prompt": "Output the metadata for record #463 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0464",
+    "prompt": "Formulate recommendations for evaluation task #464. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0465",
+    "prompt": "Formulate recommendations for evaluation task #465. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0466",
+    "prompt": "Formulate recommendations for evaluation task #466. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0467",
+    "prompt": "Formulate recommendations for evaluation task #467. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0468",
+    "prompt": "Formulate recommendations for evaluation task #468. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0469",
+    "prompt": "Write an informative paragraph about machine learning topic #469. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0470",
+    "prompt": "Summarize the benefits of AI verification in topic #470. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0471",
+    "prompt": "Formulate recommendations for evaluation task #471. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0472",
+    "prompt": "Describe an algorithm for step #472. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0473",
+    "prompt": "Explain the experimental protocol #473. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0474",
+    "prompt": "Formulate recommendations for evaluation task #474. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0475",
+    "prompt": "Output the metadata for record #475 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0476",
+    "prompt": "Formulate recommendations for evaluation task #476. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0477",
+    "prompt": "Formulate recommendations for evaluation task #477. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0478",
+    "prompt": "Formulate recommendations for evaluation task #478. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0479",
+    "prompt": "Formulate recommendations for evaluation task #479. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0480",
+    "prompt": "Formulate recommendations for evaluation task #480. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0481",
+    "prompt": "Write an informative paragraph about machine learning topic #481. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0482",
+    "prompt": "Summarize the benefits of AI verification in topic #482. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0483",
+    "prompt": "Formulate recommendations for evaluation task #483. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0484",
+    "prompt": "Describe an algorithm for step #484. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0485",
+    "prompt": "Explain the experimental protocol #485. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0486",
+    "prompt": "Formulate recommendations for evaluation task #486. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0487",
+    "prompt": "Output the metadata for record #487 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0488",
+    "prompt": "Formulate recommendations for evaluation task #488. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0489",
+    "prompt": "Formulate recommendations for evaluation task #489. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0490",
+    "prompt": "Formulate recommendations for evaluation task #490. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0491",
+    "prompt": "Formulate recommendations for evaluation task #491. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0492",
+    "prompt": "Formulate recommendations for evaluation task #492. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0493",
+    "prompt": "Write an informative paragraph about machine learning topic #493. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0494",
+    "prompt": "Summarize the benefits of AI verification in topic #494. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0495",
+    "prompt": "Formulate recommendations for evaluation task #495. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0496",
+    "prompt": "Describe an algorithm for step #496. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0497",
+    "prompt": "Explain the experimental protocol #497. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0498",
+    "prompt": "Formulate recommendations for evaluation task #498. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0499",
+    "prompt": "Output the metadata for record #499 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0500",
+    "prompt": "Formulate recommendations for evaluation task #500. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0501",
+    "prompt": "Formulate recommendations for evaluation task #501. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0502",
+    "prompt": "Formulate recommendations for evaluation task #502. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0503",
+    "prompt": "Formulate recommendations for evaluation task #503. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0504",
+    "prompt": "Formulate recommendations for evaluation task #504. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0505",
+    "prompt": "Write an informative paragraph about machine learning topic #505. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0506",
+    "prompt": "Summarize the benefits of AI verification in topic #506. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0507",
+    "prompt": "Formulate recommendations for evaluation task #507. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0508",
+    "prompt": "Describe an algorithm for step #508. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0509",
+    "prompt": "Explain the experimental protocol #509. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0510",
+    "prompt": "Formulate recommendations for evaluation task #510. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0511",
+    "prompt": "Output the metadata for record #511 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0512",
+    "prompt": "Formulate recommendations for evaluation task #512. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0513",
+    "prompt": "Formulate recommendations for evaluation task #513. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0514",
+    "prompt": "Formulate recommendations for evaluation task #514. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0515",
+    "prompt": "Formulate recommendations for evaluation task #515. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0516",
+    "prompt": "Formulate recommendations for evaluation task #516. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0517",
+    "prompt": "Write an informative paragraph about machine learning topic #517. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0518",
+    "prompt": "Summarize the benefits of AI verification in topic #518. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0519",
+    "prompt": "Formulate recommendations for evaluation task #519. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0520",
+    "prompt": "Describe an algorithm for step #520. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0521",
+    "prompt": "Explain the experimental protocol #521. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0522",
+    "prompt": "Formulate recommendations for evaluation task #522. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0523",
+    "prompt": "Output the metadata for record #523 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0524",
+    "prompt": "Formulate recommendations for evaluation task #524. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0525",
+    "prompt": "Formulate recommendations for evaluation task #525. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0526",
+    "prompt": "Formulate recommendations for evaluation task #526. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0527",
+    "prompt": "Formulate recommendations for evaluation task #527. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0528",
+    "prompt": "Formulate recommendations for evaluation task #528. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0529",
+    "prompt": "Write an informative paragraph about machine learning topic #529. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "id": "ifeval_0530",
+    "prompt": "Summarize the benefits of AI verification in topic #530. Constraint: The response must consist of exactly 3 sentences.",
+    "constraint": {
+      "type": "sentence_count",
+      "target": 3
+    }
+  },
+  {
+    "id": "ifeval_0531",
+    "prompt": "Formulate recommendations for evaluation task #531. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0532",
+    "prompt": "Describe an algorithm for step #532. Constraint: Do NOT use the word 'always' in your entire response.",
+    "constraint": {
+      "type": "forbidden_word",
+      "word": "always"
+    }
+  },
+  {
+    "id": "ifeval_0533",
+    "prompt": "Explain the experimental protocol #533. Constraint: You must include the exact word 'specifically'.",
+    "constraint": {
+      "type": "required_word",
+      "word": "specifically"
+    }
+  },
+  {
+    "id": "ifeval_0534",
+    "prompt": "Formulate recommendations for evaluation task #534. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0535",
+    "prompt": "Output the metadata for record #535 as a valid JSON object with keys 'id', 'status', 'score'.",
+    "constraint": {
+      "type": "valid_json",
+      "required_keys": [
+        "id",
+        "status",
+        "score"
+      ]
+    }
+  },
+  {
+    "id": "ifeval_0536",
+    "prompt": "Formulate recommendations for evaluation task #536. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0537",
+    "prompt": "Formulate recommendations for evaluation task #537. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0538",
+    "prompt": "Formulate recommendations for evaluation task #538. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0539",
+    "prompt": "Formulate recommendations for evaluation task #539. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0540",
+    "prompt": "Formulate recommendations for evaluation task #540. Constraint: Use a bulleted list with exactly 4 items, starting each with '- '.",
+    "constraint": {
+      "type": "bullet_count",
+      "target": 4
+    }
+  },
+  {
+    "id": "ifeval_0541",
+    "prompt": "Write an informative paragraph about machine learning topic #541. Constraint: The response must contain exactly between 40 and 60 words.",
+    "constraint": {
+      "type": "word_count_range",
+      "min": 40,
+      "max": 60
+    }
+  }
+]

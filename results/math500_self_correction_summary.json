@@ -1,0 +1,38 @@
+{
+  "gemma2:9b": {
+    "total": 500,
+    "turn1_acc_pct": 98.6,
+    "turn2_acc_pct": 98.6,
+    "helpful_flips_count": 0,
+    "helpful_flips_pct": 0.0,
+    "harmful_flips_count": 0,
+    "harmful_flips_pct": 0.0,
+    "stable_correct_count": 493,
+    "stable_incorrect_count": 7,
+    "net_gain_pct": 0.0
+  },
+  "gpt-oss:20b": {
+    "total": 500,
+    "turn1_acc_pct": 94.6,
+    "turn2_acc_pct": 99.2,
+    "helpful_flips_count": 23,
+    "helpful_flips_pct": 4.6,
+    "harmful_flips_count": 0,
+    "harmful_flips_pct": 0.0,
+    "stable_correct_count": 473,
+    "stable_incorrect_count": 4,
+    "net_gain_pct": 4.6
+  },
+  "gemma3:27b": {
+    "total": 500,
+    "turn1_acc_pct": 82.8,
+    "turn2_acc_pct": 95.2,
+    "helpful_flips_count": 62,
+    "helpful_flips_pct": 12.4,
+    "harmful_flips_count": 0,
+    "harmful_flips_pct": 0.0,
+    "stable_correct_count": 414,
+    "stable_incorrect_count": 24,
+    "net_gain_pct": 12.4
+  }
+}

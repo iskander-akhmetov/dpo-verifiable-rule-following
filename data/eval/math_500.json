@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "math_0001",
+    "problem": "Find the value of (x + 1)^2 when x = 3.",
+    "ground_truth": "16",
+    "target_val": 16
+  },
+  {
+    "id": "math_0002",
+    "problem": "Find the value of (x + 1)^2 when x = 4.",
+    "ground_truth": "25",
+    "target_val": 25
+  },
+  {
+    "id": "math_0003",
+    "problem": "Find the value of (x + 1)^2 when x = 5.",
+    "ground_truth": "36",
+    "target_val": 36
+  },
+  {
+    "id": "math_0004",
+    "problem": "Find the value of (x + 1)^2 when x = 6.",
+    "ground_truth": "49",
+    "target_val": 49
+  },
+  {
+    "id": "math_0005",
+    "problem": "Find the value of (x + 1)^2 when x = 7.",
+    "ground_truth": "64",
+    "target_val": 64
+  },
+  {
+    "id": "math_0006",
+    "problem": "Find the value of (x + 1)^2 when x = 8.",
+    "ground_truth": "81",
+    "target_val": 81
+  },
+  {
+    "id": "math_0007",
+    "problem": "Find the value of (x + 1)^2 when x = 9.",
+    "ground_truth": "100",
+    "target_val": 100
+  },
+  {
+    "id": "math_0008",
+    "problem": "Find the value of (x + 1)^2 when x = 10.",
+    "ground_truth": "121",
+    "target_val": 121
+  },
+  {
+    "id": "math_0009",
+    "problem": "Find the value of (x + 1)^2 when x = 11.",
+    "ground_truth": "144",
+    "target_val": 144
+  },
+  {
+    "id": "math_0010",
+    "problem": "Find the value of (x + 1)^2 when x = 12.",
+    "ground_truth": "169",
+    "target_val": 169
+  },
+  {
+    "id": "math_0011",
+    "problem": "Find the value of (x + 1)^2 when x = 13.",
+    "ground_truth": "196",
+    "target_val": 196
+  },
+  {
+    "id": "math_0012",
+    "problem": "Find the value of (x + 1)^2 when x = 14.",
+    "ground_truth": "225",
+    "target_val": 225
+  },
+  {
+    "id": "math_0013",
+    "problem": "Find the value of (x + 1)^2 when x = 15.",
+    "ground_truth": "256",
+    "target_val": 256
+  },
+  {
+    "id": "math_0014",
+    "problem": "Find the value of (x + 1)^2 when x = 16.",
+    "ground_truth": "289",
+    "target_val": 289
+  },
+  {
+    "id": "math_0015",
+    "problem": "Find the value of (x + 1)^2 when x = 17.",
+    "ground_truth": "324",
+    "target_val": 324
+  },
+  {
+    "id": "math_0016",
+    "problem": "Find the value of (x + 1)^2 when x = 18.",
+    "ground_truth": "361",
+    "target_val": 361
+  },
+  {
+    "id": "math_0017",
+    "problem": "Find the value of (x + 1)^2 when x = 19.",
+    "ground_truth": "400",
+    "target_val": 400
+  },
+  {
+    "id": "math_0018",
+    "problem": "Find the value of (x + 1)^2 when x = 20.",
+    "ground_truth": "441",
+    "target_val": 441
+  },
+  {
+    "id": "math_0019",
+    "problem": "Find the value of (x + 1)^2 when x = 21.",
+    "ground_truth": "484",
+    "target_val": 484
+  },
+  {
+    "id": "math_0020",
+    "problem": "Find the value of (x + 1)^2 when x = 22.",
+    "ground_truth": "529",
+    "target_val": 529
+  },
+  {
+    "id": "math_0021",
+    "problem": "Find the value of (x + 1)^2 when x = 23.",
+    "ground_truth": "576",
+    "target_val": 576
+  },
+  {
+    "id": "math_0022",
+    "problem": "Find the value of (x + 1)^2 when x = 24.",
+    "ground_truth": "625",
+    "target_val": 625
+  },
+  {
+    "id": "math_0023",
+    "problem": "Find the value of (x + 1)^2 when x = 25.",
+    "ground_truth": "676",
+    "target_val": 676
+  },
+  {
+    "id": "math_0024",
+    "problem": "Find the value of (x + 1)^2 when x = 26.",
+    "ground_truth": "729",
+    "target_val": 729
+  },
+  {
+    "id": "math_0025",
+    "problem": "Find the value of (x + 1)^2 when x = 27.",
+    "ground_truth": "784",
+    "target_val": 784
+  },
+  {
+    "id": "math_0026",
+    "problem": "Find the value of (x + 1)^2 when x = 28.",
+    "ground_truth": "841",
+    "target_val": 841
+  },
+  {
+    "id": "math_0027",
+    "problem": "Find the value of (x + 1)^2 when x = 29.",
+    "ground_truth": "900",
+    "target_val": 900
+  },
+  {
+    "id": "math_0028",
+    "problem": "Find the value of (x + 1)^2 when x = 30.",
+    "ground_truth": "961",
+    "target_val": 961
+  },
+  {
+    "id": "math_0029",
+    "problem": "Find the value of (x + 1)^2 when x = 31.",
+    "ground_truth": "1024",
+    "target_val": 1024
+  },
+  {
+    "id": "math_0030",
+    "problem": "Find the value of (x + 1)^2 when x = 32.",
+    "ground_truth": "1089",
+    "target_val": 1089
+  },
+  {
+    "id": "math_0031",
+    "problem": "Find the value of (x + 1)^2 when x = 33.",
+    "ground_truth": "1156",
+    "target_val": 1156
+  },
+  {
+    "id": "math_0032",
+    "problem": "Find the value of (x + 1)^2 when x = 34.",
+    "ground_truth": "1225",
+    "target_val": 1225
+  },
+  {
+    "id": "math_0033",
+    "problem": "Find the value of (x + 1)^2 when x = 35.",
+    "ground_truth": "1296",
+    "target_val": 1296
+  },
+  {
+    "id": "math_0034",
+    "problem": "Find the value of (x + 1)^2 when x = 36.",
+    "ground_truth": "1369",
+    "target_val": 1369
+  },
+  {
+    "id": "math_0035",
+    "problem": "Find the value of (x + 1)^2 when x = 37.",
+    "ground_truth": "1444",
+    "target_val": 1444
+  },
+  {
+    "id": "math_0036",
+    "problem": "Find the value of (x + 1)^2 when x = 38.",
+    "ground_truth": "1521",
+    "target_val": 1521
+  },
+  {
+    "id": "math_0037",
+    "problem": "Find the value of (x + 1)^2 when x = 39.",
+    "ground_truth": "1600",
+    "target_val": 1600
+  },
+  {
+    "id": "math_0038",
+    "problem": "Find the value of (x + 1)^2 when x = 40.",
+    "ground_truth": "1681",
+    "target_val": 1681
+  },
+  {
+    "id": "math_0039",
+    "problem": "Find the value of (x + 1)^2 when x = 41.",
+    "ground_truth": "1764",
+    "target_val": 1764
+  },
+  {
+    "id": "math_0040",
+    "problem": "Find the value of (x + 1)^2 when x = 42.",
+    "ground_truth": "1849",
+    "target_val": 1849
+  },
+  {
+    "id": "math_0041",
+    "problem": "Find the value of (x + 1)^2 when x = 43.",
+    "ground_truth": "1936",
+    "target_val": 1936
+  },
+  {
+    "id": "math_0042",
+    "problem": "Find the value of (x + 1)^2 when x = 44.",
+    "ground_truth": "2025",
+    "target_val": 2025
+  },
+  {
+    "id": "math_0043",
+    "problem": "Find the value of (x + 1)^2 when x = 45.",
+    "ground_truth": "2116",
+    "target_val": 2116
+  },
+  {
+    "id": "math_0044",
+    "problem": "Find the value of (x + 1)^2 when x = 46.",
+    "ground_truth": "2209",
+    "target_val": 2209
+  },
+  {
+    "id": "math_0045",
+    "problem": "Find the value of (x + 1)^2 when x = 47.",
+    "ground_truth": "2304",
+    "target_val": 2304
+  },
+  {
+    "id": "math_0046",
+    "problem": "Find the value of (x + 1)^2 when x = 48.",
+    "ground_truth": "2401",
+    "target_val": 2401
+  },
+  {
+    "id": "math_0047",
+    "problem": "Find the value of (x + 1)^2 when x = 49.",
+    "ground_truth": "2500",
+    "target_val": 2500
+  },
+  {
+    "id": "math_0048",
+    "problem": "Find the value of (x + 1)^2 when x = 50.",
+    "ground_truth": "2601",
+    "target_val": 2601
+  },
+  {
+    "id": "math_0049",
+    "problem": "Find the value of (x + 1)^2 when x = 51.",
+    "ground_truth": "2704",
+    "target_val": 2704
+  },
+  {
+    "id": "math_0050",
+    "problem": "Find the value of (x + 1)^2 when x = 52.",
+    "ground_truth": "2809",
+    "target_val": 2809
+  },
+  {
+    "id": "math_0051",
+    "problem": "Find the value of (x + 1)^2 when x = 53.",
+    "ground_truth": "2916",
+    "target_val": 2916
+  },
+  {
+    "id": "math_0052",
+    "problem": "Find the value of (x + 1)^2 when x = 54.",
+    "ground_truth": "3025",
+    "target_val": 3025
+  },
+  {
+    "id": "math_0053",
+    "problem": "Find the value of (x + 1)^2 when x = 55.",
+    "ground_truth": "3136",
+    "target_val": 3136
+  },
+  {
+    "id": "math_0054",
+    "problem": "Find the value of (x + 1)^2 when x = 56.",
+    "ground_truth": "3249",
+    "target_val": 3249
+  },
+  {
+    "id": "math_0055",
+    "problem": "Find the value of (x + 1)^2 when x = 57.",
+    "ground_truth": "3364",
+    "target_val": 3364
+  },
+  {
+    "id": "math_0056",
+    "problem": "Find the value of (x + 1)^2 when x = 58.",
+    "ground_truth": "3481",
+    "target_val": 3481
+  },
+  {
+    "id": "math_0057",
+    "problem": "Find the value of (x + 1)^2 when x = 59.",
+    "ground_truth": "3600",
+    "target_val": 3600
+  },
+  {
+    "id": "math_0058",
+    "problem": "Find the value of (x + 1)^2 when x = 60.",
+    "ground_truth": "3721",
+    "target_val": 3721
+  },
+  {
+    "id": "math_0059",
+    "problem": "Find the value of (x + 1)^2 when x = 61.",
+    "ground_truth": "3844",
+    "target_val": 3844
+  },
+  {
+    "id": "math_0060",
+    "problem": "Find the value of (x + 1)^2 when x = 62.",
+    "ground_truth": "3969",
+    "target_val": 3969
+  },
+  {
+    "id": "math_0061",
+    "problem": "Find the value of (x + 1)^2 when x = 63.",
+    "ground_truth": "4096",
+    "target_val": 4096
+  },
+  {
+    "id": "math_0062",
+    "problem": "Find the value of (x + 1)^2 when x = 64.",
+    "ground_truth": "4225",
+    "target_val": 4225
+  },
+  {
+    "id": "math_0063",
+    "problem": "Find the value of (x + 1)^2 when x = 65.",
+    "ground_truth": "4356",
+    "target_val": 4356
+  },
+  {
+    "id": "math_0064",
+    "problem": "Find the value of (x + 1)^2 when x = 66.",
+    "ground_truth": "4489",
+    "target_val": 4489
+  },
+  {
+    "id": "math_0065",
+    "problem": "Find the value of (x + 1)^2 when x = 67.",
+    "ground_truth": "4624",
+    "target_val": 4624
+  },
+  {
+    "id": "math_0066",
+    "problem": "Find the value of (x + 1)^2 when x = 68.",
+    "ground_truth": "4761",
+    "target_val": 4761
+  },
+  {
+    "id": "math_0067",
+    "problem": "Find the value of (x + 1)^2 when x = 69.",
+    "ground_truth": "4900",
+    "target_val": 4900
+  },
+  {
+    "id": "math_0068",
+    "problem": "Find the value of (x + 1)^2 when x = 70.",
+    "ground_truth": "5041",
+    "target_val": 5041
+  },
+  {
+    "id": "math_0069",
+    "problem": "Find the value of (x + 1)^2 when x = 71.",
+    "ground_truth": "5184",
+    "target_val": 5184
+  },
+  {
+    "id": "math_0070",
+    "problem": "Find the value of (x + 1)^2 when x = 72.",
+    "ground_truth": "5329",
+    "target_val": 5329
+  },
+  {
+    "id": "math_0071",
+    "problem": "Find the value of (x + 1)^2 when x = 73.",
+    "ground_truth": "5476",
+    "target_val": 5476
+  },
+  {
+    "id": "math_0072",
+    "problem": "Find the value of (x + 1)^2 when x = 74.",
+    "ground_truth": "5625",
+    "target_val": 5625
+  },
+  {
+    "id": "math_0073",
+    "problem": "Find the value of (x + 1)^2 when x = 75.",
+    "ground_truth": "5776",
+    "target_val": 5776
+  },
+  {
+    "id": "math_0074",
+    "problem": "Find the value of (x + 1)^2 when x = 76.",
+    "ground_truth": "5929",
+    "target_val": 5929
+  },
+  {
+    "id": "math_0075",
+    "problem": "Find the value of (x + 1)^2 when x = 77.",
+    "ground_truth": "6084",
+    "target_val": 6084
+  },
+  {
+    "id": "math_0076",
+    "problem": "Find the value of (x + 1)^2 when x = 78.",
+    "ground_truth": "6241",
+    "target_val": 6241
+  },
+  {
+    "id": "math_0077",
+    "problem": "Find the value of (x + 1)^2 when x = 79.",
+    "ground_truth": "6400",
+    "target_val": 6400
+  },
+  {
+    "id": "math_0078",
+    "problem": "Find the value of (x + 1)^2 when x = 80.",
+    "ground_truth": "6561",
+    "target_val": 6561
+  },
+  {
+    "id": "math_0079",
+    "problem": "Find the value of (x + 1)^2 when x = 81.",
+    "ground_truth": "6724",
+    "target_val": 6724
+  },
+  {
+    "id": "math_0080",
+    "problem": "Find the value of (x + 1)^2 when x = 82.",
+    "ground_truth": "6889",
+    "target_val": 6889
+  },
+  {
+    "id": "math_0081",
+    "problem": "Find the value of (x + 1)^2 when x = 83.",
+    "ground_truth": "7056",
+    "target_val": 7056
+  },
+  {
+    "id": "math_0082",
+    "problem": "Find the value of (x + 1)^2 when x = 84.",
+    "ground_truth": "7225",
+    "target_val": 7225
+  },
+  {
+    "id": "math_0083",
+    "problem": "Find the value of (x + 1)^2 when x = 85.",
+    "ground_truth": "7396",
+    "target_val": 7396
+  },
+  {
+    "id": "math_0084",
+    "problem": "Find the value of (x + 1)^2 when x = 86.",
+    "ground_truth": "7569",
+    "target_val": 7569
+  },
+  {
+    "id": "math_0085",
+    "problem": "Find the value of (x + 1)^2 when x = 87.",
+    "ground_truth": "7744",
+    "target_val": 7744
+  },
+  {
+    "id": "math_0086",
+    "problem": "Find the value of (x + 1)^2 when x = 88.",
+    "ground_truth": "7921",
+    "target_val": 7921
+  },
+  {
+    "id": "math_0087",
+    "problem": "Find the value of (x + 1)^2 when x = 89.",
+    "ground_truth": "8100",
+    "target_val": 8100
+  },
+  {
+    "id": "math_0088",
+    "problem": "Find the value of (x + 1)^2 when x = 90.",
+    "ground_truth": "8281",
+    "target_val": 8281
+  },
+  {
+    "id": "math_0089",
+    "problem": "Find the value of (x + 1)^2 when x = 91.",
+    "ground_truth": "8464",
+    "target_val": 8464
+  },
+  {
+    "id": "math_0090",
+    "problem": "Find the value of (x + 1)^2 when x = 92.",
+    "ground_truth": "8649",
+    "target_val": 8649
+  },
+  {
+    "id": "math_0091",
+    "problem": "Find the value of (x + 1)^2 when x = 93.",
+    "ground_truth": "8836",
+    "target_val": 8836
+  },
+  {
+    "id": "math_0092",
+    "problem": "Find the value of (x + 1)^2 when x = 94.",
+    "ground_truth": "9025",
+    "target_val": 9025
+  },
+  {
+    "id": "math_0093",
+    "problem": "Find the value of (x + 1)^2 when x = 95.",
+    "ground_truth": "9216",
+    "target_val": 9216
+  },
+  {
+    "id": "math_0094",
+    "problem": "Find the value of (x + 1)^2 when x = 96.",
+    "ground_truth": "9409",
+    "target_val": 9409
+  },
+  {
+    "id": "math_0095",
+    "problem": "Find the value of (x + 1)^2 when x = 97.",
+    "ground_truth": "9604",
+    "target_val": 9604
+  },
+  {
+    "id": "math_0096",
+    "problem": "Find the value of (x + 1)^2 when x = 98.",
+    "ground_truth": "9801",
+    "target_val": 9801
+  },
+  {
+    "id": "math_0097",
+    "problem": "Find the value of (x + 1)^2 when x = 99.",
+    "ground_truth": "10000",
+    "target_val": 10000
+  },
+  {
+    "id": "math_0098",
+    "problem": "Find the value of (x + 1)^2 when x = 100.",
+    "ground_truth": "10201",
+    "target_val": 10201
+  },
+  {
+    "id": "math_0099",
+    "problem": "Find the value of (x + 1)^2 when x = 101.",
+    "ground_truth": "10404",
+    "target_val": 10404
+  },
+  {
+    "id": "math_0100",
+    "problem": "Find the value of (x + 1)^2 when x = 102.",
+    "ground_truth": "10609",
+    "target_val": 10609
+  },
+  {
+    "id": "math_0101",
+    "problem": "Find the value of (x + 1)^2 when x = 103.",
+    "ground_truth": "10816",
+    "target_val": 10816
+  },
+  {
+    "id": "math_0102",
+    "problem": "Find the value of (x + 1)^2 when x = 104.",
+    "ground_truth": "11025",
+    "target_val": 11025
+  },
+  {
+    "id": "math_0103",
+    "problem": "Find the value of (x + 1)^2 when x = 105.",
+    "ground_truth": "11236",
+    "target_val": 11236
+  },
+  {
+    "id": "math_0104",
+    "problem": "Find the value of (x + 1)^2 when x = 106.",
+    "ground_truth": "11449",
+    "target_val": 11449
+  },
+  {
+    "id": "math_0105",
+    "problem": "Find the value of (x + 1)^2 when x = 107.",
+    "ground_truth": "11664",
+    "target_val": 11664
+  },
+  {
+    "id": "math_0106",
+    "problem": "Find the value of (x + 1)^2 when x = 108.",
+    "ground_truth": "11881",
+    "target_val": 11881
+  },
+  {
+    "id": "math_0107",
+    "problem": "Find the value of (x + 1)^2 when x = 109.",
+    "ground_truth": "12100",
+    "target_val": 12100
+  },
+  {
+    "id": "math_0108",
+    "problem": "Find the value of (x + 1)^2 when x = 110.",
+    "ground_truth": "12321",
+    "target_val": 12321
+  },
+  {
+    "id": "math_0109",
+    "problem": "Find the value of (x + 1)^2 when x = 111.",
+    "ground_truth": "12544",
+    "target_val": 12544
+  },
+  {
+    "id": "math_0110",
+    "problem": "Find the value of (x + 1)^2 when x = 112.",
+    "ground_truth": "12769",
+    "target_val": 12769
+  },
+  {
+    "id": "math_0111",
+    "problem": "Find the value of (x + 1)^2 when x = 113.",
+    "ground_truth": "12996",
+    "target_val": 12996
+  },
+  {
+    "id": "math_0112",
+    "problem": "Find the value of (x + 1)^2 when x = 114.",
+    "ground_truth": "13225",
+    "target_val": 13225
+  },
+  {
+    "id": "math_0113",
+    "problem": "Find the value of (x + 1)^2 when x = 115.",
+    "ground_truth": "13456",
+    "target_val": 13456
+  },
+  {
+    "id": "math_0114",
+    "problem": "Find the value of (x + 1)^2 when x = 116.",
+    "ground_truth": "13689",
+    "target_val": 13689
+  },
+  {
+    "id": "math_0115",
+    "problem": "Find the value of (x + 1)^2 when x = 117.",
+    "ground_truth": "13924",
+    "target_val": 13924
+  },
+  {
+    "id": "math_0116",
+    "problem": "Find the value of (x + 1)^2 when x = 118.",
+    "ground_truth": "14161",
+    "target_val": 14161
+  },
+  {
+    "id": "math_0117",
+    "problem": "Find the value of (x + 1)^2 when x = 119.",
+    "ground_truth": "14400",
+    "target_val": 14400
+  },
+  {
+    "id": "math_0118",
+    "problem": "Find the value of (x + 1)^2 when x = 120.",
+    "ground_truth": "14641",
+    "target_val": 14641
+  },
+  {
+    "id": "math_0119",
+    "problem": "Find the value of (x + 1)^2 when x = 121.",
+    "ground_truth": "14884",
+    "target_val": 14884
+  },
+  {
+    "id": "math_0120",
+    "problem": "Find the value of (x + 1)^2 when x = 122.",
+    "ground_truth": "15129",
+    "target_val": 15129
+  },
+  {
+    "id": "math_0121",
+    "problem": "Find the value of (x + 1)^2 when x = 123.",
+    "ground_truth": "15376",
+    "target_val": 15376
+  },
+  {
+    "id": "math_0122",
+    "problem": "Find the value of (x + 1)^2 when x = 124.",
+    "ground_truth": "15625",
+    "target_val": 15625
+  },
+  {
+    "id": "math_0123",
+    "problem": "Find the value of (x + 1)^2 when x = 125.",
+    "ground_truth": "15876",
+    "target_val": 15876
+  },
+  {
+    "id": "math_0124",
+    "problem": "Find the value of (x + 1)^2 when x = 126.",
+    "ground_truth": "16129",
+    "target_val": 16129
+  },
+  {
+    "id": "math_0125",
+    "problem": "Find the value of (x + 1)^2 when x = 127.",
+    "ground_truth": "16384",
+    "target_val": 16384
+  },
+  {
+    "id": "math_0126",
+    "problem": "Find the value of (x + 1)^2 when x = 128.",
+    "ground_truth": "16641",
+    "target_val": 16641
+  },
+  {
+    "id": "math_0127",
+    "problem": "Find the value of (x + 1)^2 when x = 129.",
+    "ground_truth": "16900",
+    "target_val": 16900
+  },
+  {
+    "id": "math_0128",
+    "problem": "Find the value of (x + 1)^2 when x = 130.",
+    "ground_truth": "17161",
+    "target_val": 17161
+  },
+  {
+    "id": "math_0129",
+    "problem": "Find the value of (x + 1)^2 when x = 131.",
+    "ground_truth": "17424",
+    "target_val": 17424
+  },
+  {
+    "id": "math_0130",
+    "problem": "Find the value of (x + 1)^2 when x = 132.",
+    "ground_truth": "17689",
+    "target_val": 17689
+  },
+  {
+    "id": "math_0131",
+    "problem": "Find the value of (x + 1)^2 when x = 133.",
+    "ground_truth": "17956",
+    "target_val": 17956
+  },
+  {
+    "id": "math_0132",
+    "problem": "Find the value of (x + 1)^2 when x = 134.",
+    "ground_truth": "18225",
+    "target_val": 18225
+  },
+  {
+    "id": "math_0133",
+    "problem": "Find the value of (x + 1)^2 when x = 135.",
+    "ground_truth": "18496",
+    "target_val": 18496
+  },
+  {
+    "id": "math_0134",
+    "problem": "Find the value of (x + 1)^2 when x = 136.",
+    "ground_truth": "18769",
+    "target_val": 18769
+  },
+  {
+    "id": "math_0135",
+    "problem": "Find the value of (x + 1)^2 when x = 137.",
+    "ground_truth": "19044",
+    "target_val": 19044
+  },
+  {
+    "id": "math_0136",
+    "problem": "Find the value of (x + 1)^2 when x = 138.",
+    "ground_truth": "19321",
+    "target_val": 19321
+  },
+  {
+    "id": "math_0137",
+    "problem": "Find the value of (x + 1)^2 when x = 139.",
+    "ground_truth": "19600",
+    "target_val": 19600
+  },
+  {
+    "id": "math_0138",
+    "problem": "Find the value of (x + 1)^2 when x = 140.",
+    "ground_truth": "19881",
+    "target_val": 19881
+  },
+  {
+    "id": "math_0139",
+    "problem": "Find the value of (x + 1)^2 when x = 141.",
+    "ground_truth": "20164",
+    "target_val": 20164
+  },
+  {
+    "id": "math_0140",
+    "problem": "Find the value of (x + 1)^2 when x = 142.",
+    "ground_truth": "20449",
+    "target_val": 20449
+  },
+  {
+    "id": "math_0141",
+    "problem": "Find the value of (x + 1)^2 when x = 143.",
+    "ground_truth": "20736",
+    "target_val": 20736
+  },
+  {
+    "id": "math_0142",
+    "problem": "Find the value of (x + 1)^2 when x = 144.",
+    "ground_truth": "21025",
+    "target_val": 21025
+  },
+  {
+    "id": "math_0143",
+    "problem": "Find the value of (x + 1)^2 when x = 145.",
+    "ground_truth": "21316",
+    "target_val": 21316
+  },
+  {
+    "id": "math_0144",
+    "problem": "Find the value of (x + 1)^2 when x = 146.",
+    "ground_truth": "21609",
+    "target_val": 21609
+  },
+  {
+    "id": "math_0145",
+    "problem": "Find the value of (x + 1)^2 when x = 147.",
+    "ground_truth": "21904",
+    "target_val": 21904
+  },
+  {
+    "id": "math_0146",
+    "problem": "Find the value of (x + 1)^2 when x = 148.",
+    "ground_truth": "22201",
+    "target_val": 22201
+  },
+  {
+    "id": "math_0147",
+    "problem": "Find the value of (x + 1)^2 when x = 149.",
+    "ground_truth": "22500",
+    "target_val": 22500
+  },
+  {
+    "id": "math_0148",
+    "problem": "Find the value of (x + 1)^2 when x = 150.",
+    "ground_truth": "22801",
+    "target_val": 22801
+  },
+  {
+    "id": "math_0149",
+    "problem": "Find the value of (x + 1)^2 when x = 151.",
+    "ground_truth": "23104",
+    "target_val": 23104
+  },
+  {
+    "id": "math_0150",
+    "problem": "Find the value of (x + 1)^2 when x = 152.",
+    "ground_truth": "23409",
+    "target_val": 23409
+  },
+  {
+    "id": "math_0151",
+    "problem": "Find the value of (x + 1)^2 when x = 153.",
+    "ground_truth": "23716",
+    "target_val": 23716
+  },
+  {
+    "id": "math_0152",
+    "problem": "Find the value of (x + 1)^2 when x = 154.",
+    "ground_truth": "24025",
+    "target_val": 24025
+  },
+  {
+    "id": "math_0153",
+    "problem": "Find the value of (x + 1)^2 when x = 155.",
+    "ground_truth": "24336",
+    "target_val": 24336
+  },
+  {
+    "id": "math_0154",
+    "problem": "Find the value of (x + 1)^2 when x = 156.",
+    "ground_truth": "24649",
+    "target_val": 24649
+  },
+  {
+    "id": "math_0155",
+    "problem": "Find the value of (x + 1)^2 when x = 157.",
+    "ground_truth": "24964",
+    "target_val": 24964
+  },
+  {
+    "id": "math_0156",
+    "problem": "Find the value of (x + 1)^2 when x = 158.",
+    "ground_truth": "25281",
+    "target_val": 25281
+  },
+  {
+    "id": "math_0157",
+    "problem": "Find the value of (x + 1)^2 when x = 159.",
+    "ground_truth": "25600",
+    "target_val": 25600
+  },
+  {
+    "id": "math_0158",
+    "problem": "Find the value of (x + 1)^2 when x = 160.",
+    "ground_truth": "25921",
+    "target_val": 25921
+  },
+  {
+    "id": "math_0159",
+    "problem": "Find the value of (x + 1)^2 when x = 161.",
+    "ground_truth": "26244",
+    "target_val": 26244
+  },
+  {
+    "id": "math_0160",
+    "problem": "Find the value of (x + 1)^2 when x = 162.",
+    "ground_truth": "26569",
+    "target_val": 26569
+  },
+  {
+    "id": "math_0161",
+    "problem": "Find the value of (x + 1)^2 when x = 163.",
+    "ground_truth": "26896",
+    "target_val": 26896
+  },
+  {
+    "id": "math_0162",
+    "problem": "Find the value of (x + 1)^2 when x = 164.",
+    "ground_truth": "27225",
+    "target_val": 27225
+  },
+  {
+    "id": "math_0163",
+    "problem": "Find the value of (x + 1)^2 when x = 165.",
+    "ground_truth": "27556",
+    "target_val": 27556
+  },
+  {
+    "id": "math_0164",
+    "problem": "Find the value of (x + 1)^2 when x = 166.",
+    "ground_truth": "27889",
+    "target_val": 27889
+  },
+  {
+    "id": "math_0165",
+    "problem": "Find the value of (x + 1)^2 when x = 167.",
+    "ground_truth": "28224",
+    "target_val": 28224
+  },
+  {
+    "id": "math_0166",
+    "problem": "Find the value of (x + 1)^2 when x = 168.",
+    "ground_truth": "28561",
+    "target_val": 28561
+  },
+  {
+    "id": "math_0167",
+    "problem": "Find the value of (x + 1)^2 when x = 169.",
+    "ground_truth": "28900",
+    "target_val": 28900
+  },
+  {
+    "id": "math_0168",
+    "problem": "Find the value of (x + 1)^2 when x = 170.",
+    "ground_truth": "29241",
+    "target_val": 29241
+  },
+  {
+    "id": "math_0169",
+    "problem": "Find the value of (x + 1)^2 when x = 171.",
+    "ground_truth": "29584",
+    "target_val": 29584
+  },
+  {
+    "id": "math_0170",
+    "problem": "Find the value of (x + 1)^2 when x = 172.",
+    "ground_truth": "29929",
+    "target_val": 29929
+  },
+  {
+    "id": "math_0171",
+    "problem": "Find the value of (x + 1)^2 when x = 173.",
+    "ground_truth": "30276",
+    "target_val": 30276
+  },
+  {
+    "id": "math_0172",
+    "problem": "Find the value of (x + 1)^2 when x = 174.",
+    "ground_truth": "30625",
+    "target_val": 30625
+  },
+  {
+    "id": "math_0173",
+    "problem": "Find the value of (x + 1)^2 when x = 175.",
+    "ground_truth": "30976",
+    "target_val": 30976
+  },
+  {
+    "id": "math_0174",
+    "problem": "Find the value of (x + 1)^2 when x = 176.",
+    "ground_truth": "31329",
+    "target_val": 31329
+  },
+  {
+    "id": "math_0175",
+    "problem": "Find the value of (x + 1)^2 when x = 177.",
+    "ground_truth": "31684",
+    "target_val": 31684
+  },
+  {
+    "id": "math_0176",
+    "problem": "Find the value of (x + 1)^2 when x = 178.",
+    "ground_truth": "32041",
+    "target_val": 32041
+  },
+  {
+    "id": "math_0177",
+    "problem": "Find the value of (x + 1)^2 when x = 179.",
+    "ground_truth": "32400",
+    "target_val": 32400
+  },
+  {
+    "id": "math_0178",
+    "problem": "Find the value of (x + 1)^2 when x = 180.",
+    "ground_truth": "32761",
+    "target_val": 32761
+  },
+  {
+    "id": "math_0179",
+    "problem": "Find the value of (x + 1)^2 when x = 181.",
+    "ground_truth": "33124",
+    "target_val": 33124
+  },
+  {
+    "id": "math_0180",
+    "problem": "Find the value of (x + 1)^2 when x = 182.",
+    "ground_truth": "33489",
+    "target_val": 33489
+  },
+  {
+    "id": "math_0181",
+    "problem": "Find the value of (x + 1)^2 when x = 183.",
+    "ground_truth": "33856",
+    "target_val": 33856
+  },
+  {
+    "id": "math_0182",
+    "problem": "Find the value of (x + 1)^2 when x = 184.",
+    "ground_truth": "34225",
+    "target_val": 34225
+  },
+  {
+    "id": "math_0183",
+    "problem": "Find the value of (x + 1)^2 when x = 185.",
+    "ground_truth": "34596",
+    "target_val": 34596
+  },
+  {
+    "id": "math_0184",
+    "problem": "Find the value of (x + 1)^2 when x = 186.",
+    "ground_truth": "34969",
+    "target_val": 34969
+  },
+  {
+    "id": "math_0185",
+    "problem": "Find the value of (x + 1)^2 when x = 187.",
+    "ground_truth": "35344",
+    "target_val": 35344
+  },
+  {
+    "id": "math_0186",
+    "problem": "Find the value of (x + 1)^2 when x = 188.",
+    "ground_truth": "35721",
+    "target_val": 35721
+  },
+  {
+    "id": "math_0187",
+    "problem": "Find the value of (x + 1)^2 when x = 189.",
+    "ground_truth": "36100",
+    "target_val": 36100
+  },
+  {
+    "id": "math_0188",
+    "problem": "Find the value of (x + 1)^2 when x = 190.",
+    "ground_truth": "36481",
+    "target_val": 36481
+  },
+  {
+    "id": "math_0189",
+    "problem": "Find the value of (x + 1)^2 when x = 191.",
+    "ground_truth": "36864",
+    "target_val": 36864
+  },
+  {
+    "id": "math_0190",
+    "problem": "Find the value of (x + 1)^2 when x = 192.",
+    "ground_truth": "37249",
+    "target_val": 37249
+  },
+  {
+    "id": "math_0191",
+    "problem": "Find the value of (x + 1)^2 when x = 193.",
+    "ground_truth": "37636",
+    "target_val": 37636
+  },
+  {
+    "id": "math_0192",
+    "problem": "Find the value of (x + 1)^2 when x = 194.",
+    "ground_truth": "38025",
+    "target_val": 38025
+  },
+  {
+    "id": "math_0193",
+    "problem": "Find the value of (x + 1)^2 when x = 195.",
+    "ground_truth": "38416",
+    "target_val": 38416
+  },
+  {
+    "id": "math_0194",
+    "problem": "Find the value of (x + 1)^2 when x = 196.",
+    "ground_truth": "38809",
+    "target_val": 38809
+  },
+  {
+    "id": "math_0195",
+    "problem": "Find the value of (x + 1)^2 when x = 197.",
+    "ground_truth": "39204",
+    "target_val": 39204
+  },
+  {
+    "id": "math_0196",
+    "problem": "Find the value of (x + 1)^2 when x = 198.",
+    "ground_truth": "39601",
+    "target_val": 39601
+  },
+  {
+    "id": "math_0197",
+    "problem": "Find the value of (x + 1)^2 when x = 199.",
+    "ground_truth": "40000",
+    "target_val": 40000
+  },
+  {
+    "id": "math_0198",
+    "problem": "Find the value of (x + 1)^2 when x = 200.",
+    "ground_truth": "40401",
+    "target_val": 40401
+  },
+  {
+    "id": "math_0199",
+    "problem": "Find the value of (x + 1)^2 when x = 201.",
+    "ground_truth": "40804",
+    "target_val": 40804
+  },
+  {
+    "id": "math_0200",
+    "problem": "Find the value of (x + 1)^2 when x = 202.",
+    "ground_truth": "41209",
+    "target_val": 41209
+  },
+  {
+    "id": "math_0201",
+    "problem": "Find the value of (x + 1)^2 when x = 203.",
+    "ground_truth": "41616",
+    "target_val": 41616
+  },
+  {
+    "id": "math_0202",
+    "problem": "Find the value of (x + 1)^2 when x = 204.",
+    "ground_truth": "42025",
+    "target_val": 42025
+  },
+  {
+    "id": "math_0203",
+    "problem": "Find the value of (x + 1)^2 when x = 205.",
+    "ground_truth": "42436",
+    "target_val": 42436
+  },
+  {
+    "id": "math_0204",
+    "problem": "Find the value of (x + 1)^2 when x = 206.",
+    "ground_truth": "42849",
+    "target_val": 42849
+  },
+  {
+    "id": "math_0205",
+    "problem": "Find the value of (x + 1)^2 when x = 207.",
+    "ground_truth": "43264",
+    "target_val": 43264
+  },
+  {
+    "id": "math_0206",
+    "problem": "Find the value of (x + 1)^2 when x = 208.",
+    "ground_truth": "43681",
+    "target_val": 43681
+  },
+  {
+    "id": "math_0207",
+    "problem": "Find the value of (x + 1)^2 when x = 209.",
+    "ground_truth": "44100",
+    "target_val": 44100
+  },
+  {
+    "id": "math_0208",
+    "problem": "Find the value of (x + 1)^2 when x = 210.",
+    "ground_truth": "44521",
+    "target_val": 44521
+  },
+  {
+    "id": "math_0209",
+    "problem": "Find the value of (x + 1)^2 when x = 211.",
+    "ground_truth": "44944",
+    "target_val": 44944
+  },
+  {
+    "id": "math_0210",
+    "problem": "Find the value of (x + 1)^2 when x = 212.",
+    "ground_truth": "45369",
+    "target_val": 45369
+  },
+  {
+    "id": "math_0211",
+    "problem": "Find the value of (x + 1)^2 when x = 213.",
+    "ground_truth": "45796",
+    "target_val": 45796
+  },
+  {
+    "id": "math_0212",
+    "problem": "Find the value of (x + 1)^2 when x = 214.",
+    "ground_truth": "46225",
+    "target_val": 46225
+  },
+  {
+    "id": "math_0213",
+    "problem": "Find the value of (x + 1)^2 when x = 215.",
+    "ground_truth": "46656",
+    "target_val": 46656
+  },
+  {
+    "id": "math_0214",
+    "problem": "Find the value of (x + 1)^2 when x = 216.",
+    "ground_truth": "47089",
+    "target_val": 47089
+  },
+  {
+    "id": "math_0215",
+    "problem": "Find the value of (x + 1)^2 when x = 217.",
+    "ground_truth": "47524",
+    "target_val": 47524
+  },
+  {
+    "id": "math_0216",
+    "problem": "Find the value of (x + 1)^2 when x = 218.",
+    "ground_truth": "47961",
+    "target_val": 47961
+  },
+  {
+    "id": "math_0217",
+    "problem": "Find the value of (x + 1)^2 when x = 219.",
+    "ground_truth": "48400",
+    "target_val": 48400
+  },
+  {
+    "id": "math_0218",
+    "problem": "Find the value of (x + 1)^2 when x = 220.",
+    "ground_truth": "48841",
+    "target_val": 48841
+  },
+  {
+    "id": "math_0219",
+    "problem": "Find the value of (x + 1)^2 when x = 221.",
+    "ground_truth": "49284",
+    "target_val": 49284
+  },
+  {
+    "id": "math_0220",
+    "problem": "Find the value of (x + 1)^2 when x = 222.",
+    "ground_truth": "49729",
+    "target_val": 49729
+  },
+  {
+    "id": "math_0221",
+    "problem": "Find the value of (x + 1)^2 when x = 223.",
+    "ground_truth": "50176",
+    "target_val": 50176
+  },
+  {
+    "id": "math_0222",
+    "problem": "Find the value of (x + 1)^2 when x = 224.",
+    "ground_truth": "50625",
+    "target_val": 50625
+  },
+  {
+    "id": "math_0223",
+    "problem": "Find the value of (x + 1)^2 when x = 225.",
+    "ground_truth": "51076",
+    "target_val": 51076
+  },
+  {
+    "id": "math_0224",
+    "problem": "Find the value of (x + 1)^2 when x = 226.",
+    "ground_truth": "51529",
+    "target_val": 51529
+  },
+  {
+    "id": "math_0225",
+    "problem": "Find the value of (x + 1)^2 when x = 227.",
+    "ground_truth": "51984",
+    "target_val": 51984
+  },
+  {
+    "id": "math_0226",
+    "problem": "Find the value of (x + 1)^2 when x = 228.",
+    "ground_truth": "52441",
+    "target_val": 52441
+  },
+  {
+    "id": "math_0227",
+    "problem": "Find the value of (x + 1)^2 when x = 229.",
+    "ground_truth": "52900",
+    "target_val": 52900
+  },
+  {
+    "id": "math_0228",
+    "problem": "Find the value of (x + 1)^2 when x = 230.",
+    "ground_truth": "53361",
+    "target_val": 53361
+  },
+  {
+    "id": "math_0229",
+    "problem": "Find the value of (x + 1)^2 when x = 231.",
+    "ground_truth": "53824",
+    "target_val": 53824
+  },
+  {
+    "id": "math_0230",
+    "problem": "Find the value of (x + 1)^2 when x = 232.",
+    "ground_truth": "54289",
+    "target_val": 54289
+  },
+  {
+    "id": "math_0231",
+    "problem": "Find the value of (x + 1)^2 when x = 233.",
+    "ground_truth": "54756",
+    "target_val": 54756
+  },
+  {
+    "id": "math_0232",
+    "problem": "Find the value of (x + 1)^2 when x = 234.",
+    "ground_truth": "55225",
+    "target_val": 55225
+  },
+  {
+    "id": "math_0233",
+    "problem": "Find the value of (x + 1)^2 when x = 235.",
+    "ground_truth": "55696",
+    "target_val": 55696
+  },
+  {
+    "id": "math_0234",
+    "problem": "Find the value of (x + 1)^2 when x = 236.",
+    "ground_truth": "56169",
+    "target_val": 56169
+  },
+  {
+    "id": "math_0235",
+    "problem": "Find the value of (x + 1)^2 when x = 237.",
+    "ground_truth": "56644",
+    "target_val": 56644
+  },
+  {
+    "id": "math_0236",
+    "problem": "Find the value of (x + 1)^2 when x = 238.",
+    "ground_truth": "57121",
+    "target_val": 57121
+  },
+  {
+    "id": "math_0237",
+    "problem": "Find the value of (x + 1)^2 when x = 239.",
+    "ground_truth": "57600",
+    "target_val": 57600
+  },
+  {
+    "id": "math_0238",
+    "problem": "Find the value of (x + 1)^2 when x = 240.",
+    "ground_truth": "58081",
+    "target_val": 58081
+  },
+  {
+    "id": "math_0239",
+    "problem": "Find the value of (x + 1)^2 when x = 241.",
+    "ground_truth": "58564",
+    "target_val": 58564
+  },
+  {
+    "id": "math_0240",
+    "problem": "Find the value of (x + 1)^2 when x = 242.",
+    "ground_truth": "59049",
+    "target_val": 59049
+  },
+  {
+    "id": "math_0241",
+    "problem": "Find the value of (x + 1)^2 when x = 243.",
+    "ground_truth": "59536",
+    "target_val": 59536
+  },
+  {
+    "id": "math_0242",
+    "problem": "Find the value of (x + 1)^2 when x = 244.",
+    "ground_truth": "60025",
+    "target_val": 60025
+  },
+  {
+    "id": "math_0243",
+    "problem": "Find the value of (x + 1)^2 when x = 245.",
+    "ground_truth": "60516",
+    "target_val": 60516
+  },
+  {
+    "id": "math_0244",
+    "problem": "Find the value of (x + 1)^2 when x = 246.",
+    "ground_truth": "61009",
+    "target_val": 61009
+  },
+  {
+    "id": "math_0245",
+    "problem": "Find the value of (x + 1)^2 when x = 247.",
+    "ground_truth": "61504",
+    "target_val": 61504
+  },
+  {
+    "id": "math_0246",
+    "problem": "Find the value of (x + 1)^2 when x = 248.",
+    "ground_truth": "62001",
+    "target_val": 62001
+  },
+  {
+    "id": "math_0247",
+    "problem": "Find the value of (x + 1)^2 when x = 249.",
+    "ground_truth": "62500",
+    "target_val": 62500
+  },
+  {
+    "id": "math_0248",
+    "problem": "Find the value of (x + 1)^2 when x = 250.",
+    "ground_truth": "63001",
+    "target_val": 63001
+  },
+  {
+    "id": "math_0249",
+    "problem": "Find the value of (x + 1)^2 when x = 251.",
+    "ground_truth": "63504",
+    "target_val": 63504
+  },
+  {
+    "id": "math_0250",
+    "problem": "Find the value of (x + 1)^2 when x = 252.",
+    "ground_truth": "64009",
+    "target_val": 64009
+  },
+  {
+    "id": "math_0251",
+    "problem": "Find the value of (x + 1)^2 when x = 253.",
+    "ground_truth": "64516",
+    "target_val": 64516
+  },
+  {
+    "id": "math_0252",
+    "problem": "Find the value of (x + 1)^2 when x = 254.",
+    "ground_truth": "65025",
+    "target_val": 65025
+  },
+  {
+    "id": "math_0253",
+    "problem": "Find the value of (x + 1)^2 when x = 255.",
+    "ground_truth": "65536",
+    "target_val": 65536
+  },
+  {
+    "id": "math_0254",
+    "problem": "Find the value of (x + 1)^2 when x = 256.",
+    "ground_truth": "66049",
+    "target_val": 66049
+  },
+  {
+    "id": "math_0255",
+    "problem": "Find the value of (x + 1)^2 when x = 257.",
+    "ground_truth": "66564",
+    "target_val": 66564
+  },
+  {
+    "id": "math_0256",
+    "problem": "Find the value of (x + 1)^2 when x = 258.",
+    "ground_truth": "67081",
+    "target_val": 67081
+  },
+  {
+    "id": "math_0257",
+    "problem": "Find the value of (x + 1)^2 when x = 259.",
+    "ground_truth": "67600",
+    "target_val": 67600
+  },
+  {
+    "id": "math_0258",
+    "problem": "Find the value of (x + 1)^2 when x = 260.",
+    "ground_truth": "68121",
+    "target_val": 68121
+  },
+  {
+    "id": "math_0259",
+    "problem": "Find the value of (x + 1)^2 when x = 261.",
+    "ground_truth": "68644",
+    "target_val": 68644
+  },
+  {
+    "id": "math_0260",
+    "problem": "Find the value of (x + 1)^2 when x = 262.",
+    "ground_truth": "69169",
+    "target_val": 69169
+  },
+  {
+    "id": "math_0261",
+    "problem": "Find the value of (x + 1)^2 when x = 263.",
+    "ground_truth": "69696",
+    "target_val": 69696
+  },
+  {
+    "id": "math_0262",
+    "problem": "Find the value of (x + 1)^2 when x = 264.",
+    "ground_truth": "70225",
+    "target_val": 70225
+  },
+  {
+    "id": "math_0263",
+    "problem": "Find the value of (x + 1)^2 when x = 265.",
+    "ground_truth": "70756",
+    "target_val": 70756
+  },
+  {
+    "id": "math_0264",
+    "problem": "Find the value of (x + 1)^2 when x = 266.",
+    "ground_truth": "71289",
+    "target_val": 71289
+  },
+  {
+    "id": "math_0265",
+    "problem": "Find the value of (x + 1)^2 when x = 267.",
+    "ground_truth": "71824",
+    "target_val": 71824
+  },
+  {
+    "id": "math_0266",
+    "problem": "Find the value of (x + 1)^2 when x = 268.",
+    "ground_truth": "72361",
+    "target_val": 72361
+  },
+  {
+    "id": "math_0267",
+    "problem": "Find the value of (x + 1)^2 when x = 269.",
+    "ground_truth": "72900",
+    "target_val": 72900
+  },
+  {
+    "id": "math_0268",
+    "problem": "Find the value of (x + 1)^2 when x = 270.",
+    "ground_truth": "73441",
+    "target_val": 73441
+  },
+  {
+    "id": "math_0269",
+    "problem": "Find the value of (x + 1)^2 when x = 271.",
+    "ground_truth": "73984",
+    "target_val": 73984
+  },
+  {
+    "id": "math_0270",
+    "problem": "Find the value of (x + 1)^2 when x = 272.",
+    "ground_truth": "74529",
+    "target_val": 74529
+  },
+  {
+    "id": "math_0271",
+    "problem": "Find the value of (x + 1)^2 when x = 273.",
+    "ground_truth": "75076",
+    "target_val": 75076
+  },
+  {
+    "id": "math_0272",
+    "problem": "Find the value of (x + 1)^2 when x = 274.",
+    "ground_truth": "75625",
+    "target_val": 75625
+  },
+  {
+    "id": "math_0273",
+    "problem": "Find the value of (x + 1)^2 when x = 275.",
+    "ground_truth": "76176",
+    "target_val": 76176
+  },
+  {
+    "id": "math_0274",
+    "problem": "Find the value of (x + 1)^2 when x = 276.",
+    "ground_truth": "76729",
+    "target_val": 76729
+  },
+  {
+    "id": "math_0275",
+    "problem": "Find the value of (x + 1)^2 when x = 277.",
+    "ground_truth": "77284",
+    "target_val": 77284
+  },
+  {
+    "id": "math_0276",
+    "problem": "Find the value of (x + 1)^2 when x = 278.",
+    "ground_truth": "77841",
+    "target_val": 77841
+  },
+  {
+    "id": "math_0277",
+    "problem": "Find the value of (x + 1)^2 when x = 279.",
+    "ground_truth": "78400",
+    "target_val": 78400
+  },
+  {
+    "id": "math_0278",
+    "problem": "Find the value of (x + 1)^2 when x = 280.",
+    "ground_truth": "78961",
+    "target_val": 78961
+  },
+  {
+    "id": "math_0279",
+    "problem": "Find the value of (x + 1)^2 when x = 281.",
+    "ground_truth": "79524",
+    "target_val": 79524
+  },
+  {
+    "id": "math_0280",
+    "problem": "Find the value of (x + 1)^2 when x = 282.",
+    "ground_truth": "80089",
+    "target_val": 80089
+  },
+  {
+    "id": "math_0281",
+    "problem": "Find the value of (x + 1)^2 when x = 283.",
+    "ground_truth": "80656",
+    "target_val": 80656
+  },
+  {
+    "id": "math_0282",
+    "problem": "Find the value of (x + 1)^2 when x = 284.",
+    "ground_truth": "81225",
+    "target_val": 81225
+  },
+  {
+    "id": "math_0283",
+    "problem": "Find the value of (x + 1)^2 when x = 285.",
+    "ground_truth": "81796",
+    "target_val": 81796
+  },
+  {
+    "id": "math_0284",
+    "problem": "Find the value of (x + 1)^2 when x = 286.",
+    "ground_truth": "82369",
+    "target_val": 82369
+  },
+  {
+    "id": "math_0285",
+    "problem": "Find the value of (x + 1)^2 when x = 287.",
+    "ground_truth": "82944",
+    "target_val": 82944
+  },
+  {
+    "id": "math_0286",
+    "problem": "Find the value of (x + 1)^2 when x = 288.",
+    "ground_truth": "83521",
+    "target_val": 83521
+  },
+  {
+    "id": "math_0287",
+    "problem": "Find the value of (x + 1)^2 when x = 289.",
+    "ground_truth": "84100",
+    "target_val": 84100
+  },
+  {
+    "id": "math_0288",
+    "problem": "Find the value of (x + 1)^2 when x = 290.",
+    "ground_truth": "84681",
+    "target_val": 84681
+  },
+  {
+    "id": "math_0289",
+    "problem": "Find the value of (x + 1)^2 when x = 291.",
+    "ground_truth": "85264",
+    "target_val": 85264
+  },
+  {
+    "id": "math_0290",
+    "problem": "Find the value of (x + 1)^2 when x = 292.",
+    "ground_truth": "85849",
+    "target_val": 85849
+  },
+  {
+    "id": "math_0291",
+    "problem": "Find the value of (x + 1)^2 when x = 293.",
+    "ground_truth": "86436",
+    "target_val": 86436
+  },
+  {
+    "id": "math_0292",
+    "problem": "Find the value of (x + 1)^2 when x = 294.",
+    "ground_truth": "87025",
+    "target_val": 87025
+  },
+  {
+    "id": "math_0293",
+    "problem": "Find the value of (x + 1)^2 when x = 295.",
+    "ground_truth": "87616",
+    "target_val": 87616
+  },
+  {
+    "id": "math_0294",
+    "problem": "Find the value of (x + 1)^2 when x = 296.",
+    "ground_truth": "88209",
+    "target_val": 88209
+  },
+  {
+    "id": "math_0295",
+    "problem": "Find the value of (x + 1)^2 when x = 297.",
+    "ground_truth": "88804",
+    "target_val": 88804
+  },
+  {
+    "id": "math_0296",
+    "problem": "Find the value of (x + 1)^2 when x = 298.",
+    "ground_truth": "89401",
+    "target_val": 89401
+  },
+  {
+    "id": "math_0297",
+    "problem": "Find the value of (x + 1)^2 when x = 299.",
+    "ground_truth": "90000",
+    "target_val": 90000
+  },
+  {
+    "id": "math_0298",
+    "problem": "Find the value of (x + 1)^2 when x = 300.",
+    "ground_truth": "90601",
+    "target_val": 90601
+  },
+  {
+    "id": "math_0299",
+    "problem": "Find the value of (x + 1)^2 when x = 301.",
+    "ground_truth": "91204",
+    "target_val": 91204
+  },
+  {
+    "id": "math_0300",
+    "problem": "Find the value of (x + 1)^2 when x = 302.",
+    "ground_truth": "91809",
+    "target_val": 91809
+  },
+  {
+    "id": "math_0301",
+    "problem": "Find the value of (x + 1)^2 when x = 303.",
+    "ground_truth": "92416",
+    "target_val": 92416
+  },
+  {
+    "id": "math_0302",
+    "problem": "Find the value of (x + 1)^2 when x = 304.",
+    "ground_truth": "93025",
+    "target_val": 93025
+  },
+  {
+    "id": "math_0303",
+    "problem": "Find the value of (x + 1)^2 when x = 305.",
+    "ground_truth": "93636",
+    "target_val": 93636
+  },
+  {
+    "id": "math_0304",
+    "problem": "Find the value of (x + 1)^2 when x = 306.",
+    "ground_truth": "94249",
+    "target_val": 94249
+  },
+  {
+    "id": "math_0305",
+    "problem": "Find the value of (x + 1)^2 when x = 307.",
+    "ground_truth": "94864",
+    "target_val": 94864
+  },
+  {
+    "id": "math_0306",
+    "problem": "Find the value of (x + 1)^2 when x = 308.",
+    "ground_truth": "95481",
+    "target_val": 95481
+  },
+  {
+    "id": "math_0307",
+    "problem": "Find the value of (x + 1)^2 when x = 309.",
+    "ground_truth": "96100",
+    "target_val": 96100
+  },
+  {
+    "id": "math_0308",
+    "problem": "Find the value of (x + 1)^2 when x = 310.",
+    "ground_truth": "96721",
+    "target_val": 96721
+  },
+  {
+    "id": "math_0309",
+    "problem": "Find the value of (x + 1)^2 when x = 311.",
+    "ground_truth": "97344",
+    "target_val": 97344
+  },
+  {
+    "id": "math_0310",
+    "problem": "Find the value of (x + 1)^2 when x = 312.",
+    "ground_truth": "97969",
+    "target_val": 97969
+  },
+  {
+    "id": "math_0311",
+    "problem": "Find the value of (x + 1)^2 when x = 313.",
+    "ground_truth": "98596",
+    "target_val": 98596
+  },
+  {
+    "id": "math_0312",
+    "problem": "Find the value of (x + 1)^2 when x = 314.",
+    "ground_truth": "99225",
+    "target_val": 99225
+  },
+  {
+    "id": "math_0313",
+    "problem": "Find the value of (x + 1)^2 when x = 315.",
+    "ground_truth": "99856",
+    "target_val": 99856
+  },
+  {
+    "id": "math_0314",
+    "problem": "Find the value of (x + 1)^2 when x = 316.",
+    "ground_truth": "100489",
+    "target_val": 100489
+  },
+  {
+    "id": "math_0315",
+    "problem": "Find the value of (x + 1)^2 when x = 317.",
+    "ground_truth": "101124",
+    "target_val": 101124
+  },
+  {
+    "id": "math_0316",
+    "problem": "Find the value of (x + 1)^2 when x = 318.",
+    "ground_truth": "101761",
+    "target_val": 101761
+  },
+  {
+    "id": "math_0317",
+    "problem": "Find the value of (x + 1)^2 when x = 319.",
+    "ground_truth": "102400",
+    "target_val": 102400
+  },
+  {
+    "id": "math_0318",
+    "problem": "Find the value of (x + 1)^2 when x = 320.",
+    "ground_truth": "103041",
+    "target_val": 103041
+  },
+  {
+    "id": "math_0319",
+    "problem": "Find the value of (x + 1)^2 when x = 321.",
+    "ground_truth": "103684",
+    "target_val": 103684
+  },
+  {
+    "id": "math_0320",
+    "problem": "Find the value of (x + 1)^2 when x = 322.",
+    "ground_truth": "104329",
+    "target_val": 104329
+  },
+  {
+    "id": "math_0321",
+    "problem": "Find the value of (x + 1)^2 when x = 323.",
+    "ground_truth": "104976",
+    "target_val": 104976
+  },
+  {
+    "id": "math_0322",
+    "problem": "Find the value of (x + 1)^2 when x = 324.",
+    "ground_truth": "105625",
+    "target_val": 105625
+  },
+  {
+    "id": "math_0323",
+    "problem": "Find the value of (x + 1)^2 when x = 325.",
+    "ground_truth": "106276",
+    "target_val": 106276
+  },
+  {
+    "id": "math_0324",
+    "problem": "Find the value of (x + 1)^2 when x = 326.",
+    "ground_truth": "106929",
+    "target_val": 106929
+  },
+  {
+    "id": "math_0325",
+    "problem": "Find the value of (x + 1)^2 when x = 327.",
+    "ground_truth": "107584",
+    "target_val": 107584
+  },
+  {
+    "id": "math_0326",
+    "problem": "Find the value of (x + 1)^2 when x = 328.",
+    "ground_truth": "108241",
+    "target_val": 108241
+  },
+  {
+    "id": "math_0327",
+    "problem": "Find the value of (x + 1)^2 when x = 329.",
+    "ground_truth": "108900",
+    "target_val": 108900
+  },
+  {
+    "id": "math_0328",
+    "problem": "Find the value of (x + 1)^2 when x = 330.",
+    "ground_truth": "109561",
+    "target_val": 109561
+  },
+  {
+    "id": "math_0329",
+    "problem": "Find the value of (x + 1)^2 when x = 331.",
+    "ground_truth": "110224",
+    "target_val": 110224
+  },
+  {
+    "id": "math_0330",
+    "problem": "Find the value of (x + 1)^2 when x = 332.",
+    "ground_truth": "110889",
+    "target_val": 110889
+  },
+  {
+    "id": "math_0331",
+    "problem": "Find the value of (x + 1)^2 when x = 333.",
+    "ground_truth": "111556",
+    "target_val": 111556
+  },
+  {
+    "id": "math_0332",
+    "problem": "Find the value of (x + 1)^2 when x = 334.",
+    "ground_truth": "112225",
+    "target_val": 112225
+  },
+  {
+    "id": "math_0333",
+    "problem": "Find the value of (x + 1)^2 when x = 335.",
+    "ground_truth": "112896",
+    "target_val": 112896
+  },
+  {
+    "id": "math_0334",
+    "problem": "Find the value of (x + 1)^2 when x = 336.",
+    "ground_truth": "113569",
+    "target_val": 113569
+  },
+  {
+    "id": "math_0335",
+    "problem": "Find the value of (x + 1)^2 when x = 337.",
+    "ground_truth": "114244",
+    "target_val": 114244
+  },
+  {
+    "id": "math_0336",
+    "problem": "Find the value of (x + 1)^2 when x = 338.",
+    "ground_truth": "114921",
+    "target_val": 114921
+  },
+  {
+    "id": "math_0337",
+    "problem": "Find the value of (x + 1)^2 when x = 339.",
+    "ground_truth": "115600",
+    "target_val": 115600
+  },
+  {
+    "id": "math_0338",
+    "problem": "Find the value of (x + 1)^2 when x = 340.",
+    "ground_truth": "116281",
+    "target_val": 116281
+  },
+  {
+    "id": "math_0339",
+    "problem": "Find the value of (x + 1)^2 when x = 341.",
+    "ground_truth": "116964",
+    "target_val": 116964
+  },
+  {
+    "id": "math_0340",
+    "problem": "Find the value of (x + 1)^2 when x = 342.",
+    "ground_truth": "117649",
+    "target_val": 117649
+  },
+  {
+    "id": "math_0341",
+    "problem": "Find the value of (x + 1)^2 when x = 343.",
+    "ground_truth": "118336",
+    "target_val": 118336
+  },
+  {
+    "id": "math_0342",
+    "problem": "Find the value of (x + 1)^2 when x = 344.",
+    "ground_truth": "119025",
+    "target_val": 119025
+  },
+  {
+    "id": "math_0343",
+    "problem": "Find the value of (x + 1)^2 when x = 345.",
+    "ground_truth": "119716",
+    "target_val": 119716
+  },
+  {
+    "id": "math_0344",
+    "problem": "Find the value of (x + 1)^2 when x = 346.",
+    "ground_truth": "120409",
+    "target_val": 120409
+  },
+  {
+    "id": "math_0345",
+    "problem": "Find the value of (x + 1)^2 when x = 347.",
+    "ground_truth": "121104",
+    "target_val": 121104
+  },
+  {
+    "id": "math_0346",
+    "problem": "Find the value of (x + 1)^2 when x = 348.",
+    "ground_truth": "121801",
+    "target_val": 121801
+  },
+  {
+    "id": "math_0347",
+    "problem": "Find the value of (x + 1)^2 when x = 349.",
+    "ground_truth": "122500",
+    "target_val": 122500
+  },
+  {
+    "id": "math_0348",
+    "problem": "Find the value of (x + 1)^2 when x = 350.",
+    "ground_truth": "123201",
+    "target_val": 123201
+  },
+  {
+    "id": "math_0349",
+    "problem": "Find the value of (x + 1)^2 when x = 351.",
+    "ground_truth": "123904",
+    "target_val": 123904
+  },
+  {
+    "id": "math_0350",
+    "problem": "Find the value of (x + 1)^2 when x = 352.",
+    "ground_truth": "124609",
+    "target_val": 124609
+  },
+  {
+    "id": "math_0351",
+    "problem": "Find the value of (x + 1)^2 when x = 353.",
+    "ground_truth": "125316",
+    "target_val": 125316
+  },
+  {
+    "id": "math_0352",
+    "problem": "Find the value of (x + 1)^2 when x = 354.",
+    "ground_truth": "126025",
+    "target_val": 126025
+  },
+  {
+    "id": "math_0353",
+    "problem": "Find the value of (x + 1)^2 when x = 355.",
+    "ground_truth": "126736",
+    "target_val": 126736
+  },
+  {
+    "id": "math_0354",
+    "problem": "Find the value of (x + 1)^2 when x = 356.",
+    "ground_truth": "127449",
+    "target_val": 127449
+  },
+  {
+    "id": "math_0355",
+    "problem": "Find the value of (x + 1)^2 when x = 357.",
+    "ground_truth": "128164",
+    "target_val": 128164
+  },
+  {
+    "id": "math_0356",
+    "problem": "Find the value of (x + 1)^2 when x = 358.",
+    "ground_truth": "128881",
+    "target_val": 128881
+  },
+  {
+    "id": "math_0357",
+    "problem": "Find the value of (x + 1)^2 when x = 359.",
+    "ground_truth": "129600",
+    "target_val": 129600
+  },
+  {
+    "id": "math_0358",
+    "problem": "Find the value of (x + 1)^2 when x = 360.",
+    "ground_truth": "130321",
+    "target_val": 130321
+  },
+  {
+    "id": "math_0359",
+    "problem": "Find the value of (x + 1)^2 when x = 361.",
+    "ground_truth": "131044",
+    "target_val": 131044
+  },
+  {
+    "id": "math_0360",
+    "problem": "Find the value of (x + 1)^2 when x = 362.",
+    "ground_truth": "131769",
+    "target_val": 131769
+  },
+  {
+    "id": "math_0361",
+    "problem": "Find the value of (x + 1)^2 when x = 363.",
+    "ground_truth": "132496",
+    "target_val": 132496
+  },
+  {
+    "id": "math_0362",
+    "problem": "Find the value of (x + 1)^2 when x = 364.",
+    "ground_truth": "133225",
+    "target_val": 133225
+  },
+  {
+    "id": "math_0363",
+    "problem": "Find the value of (x + 1)^2 when x = 365.",
+    "ground_truth": "133956",
+    "target_val": 133956
+  },
+  {
+    "id": "math_0364",
+    "problem": "Find the value of (x + 1)^2 when x = 366.",
+    "ground_truth": "134689",
+    "target_val": 134689
+  },
+  {
+    "id": "math_0365",
+    "problem": "Find the value of (x + 1)^2 when x = 367.",
+    "ground_truth": "135424",
+    "target_val": 135424
+  },
+  {
+    "id": "math_0366",
+    "problem": "Find the value of (x + 1)^2 when x = 368.",
+    "ground_truth": "136161",
+    "target_val": 136161
+  },
+  {
+    "id": "math_0367",
+    "problem": "Find the value of (x + 1)^2 when x = 369.",
+    "ground_truth": "136900",
+    "target_val": 136900
+  },
+  {
+    "id": "math_0368",
+    "problem": "Find the value of (x + 1)^2 when x = 370.",
+    "ground_truth": "137641",
+    "target_val": 137641
+  },
+  {
+    "id": "math_0369",
+    "problem": "Find the value of (x + 1)^2 when x = 371.",
+    "ground_truth": "138384",
+    "target_val": 138384
+  },
+  {
+    "id": "math_0370",
+    "problem": "Find the value of (x + 1)^2 when x = 372.",
+    "ground_truth": "139129",
+    "target_val": 139129
+  },
+  {
+    "id": "math_0371",
+    "problem": "Find the value of (x + 1)^2 when x = 373.",
+    "ground_truth": "139876",
+    "target_val": 139876
+  },
+  {
+    "id": "math_0372",
+    "problem": "Find the value of (x + 1)^2 when x = 374.",
+    "ground_truth": "140625",
+    "target_val": 140625
+  },
+  {
+    "id": "math_0373",
+    "problem": "Find the value of (x + 1)^2 when x = 375.",
+    "ground_truth": "141376",
+    "target_val": 141376
+  },
+  {
+    "id": "math_0374",
+    "problem": "Find the value of (x + 1)^2 when x = 376.",
+    "ground_truth": "142129",
+    "target_val": 142129
+  },
+  {
+    "id": "math_0375",
+    "problem": "Find the value of (x + 1)^2 when x = 377.",
+    "ground_truth": "142884",
+    "target_val": 142884
+  },
+  {
+    "id": "math_0376",
+    "problem": "Find the value of (x + 1)^2 when x = 378.",
+    "ground_truth": "143641",
+    "target_val": 143641
+  },
+  {
+    "id": "math_0377",
+    "problem": "Find the value of (x + 1)^2 when x = 379.",
+    "ground_truth": "144400",
+    "target_val": 144400
+  },
+  {
+    "id": "math_0378",
+    "problem": "Find the value of (x + 1)^2 when x = 380.",
+    "ground_truth": "145161",
+    "target_val": 145161
+  },
+  {
+    "id": "math_0379",
+    "problem": "Find the value of (x + 1)^2 when x = 381.",
+    "ground_truth": "145924",
+    "target_val": 145924
+  },
+  {
+    "id": "math_0380",
+    "problem": "Find the value of (x + 1)^2 when x = 382.",
+    "ground_truth": "146689",
+    "target_val": 146689
+  },
+  {
+    "id": "math_0381",
+    "problem": "Find the value of (x + 1)^2 when x = 383.",
+    "ground_truth": "147456",
+    "target_val": 147456
+  },
+  {
+    "id": "math_0382",
+    "problem": "Find the value of (x + 1)^2 when x = 384.",
+    "ground_truth": "148225",
+    "target_val": 148225
+  },
+  {
+    "id": "math_0383",
+    "problem": "Find the value of (x + 1)^2 when x = 385.",
+    "ground_truth": "148996",
+    "target_val": 148996
+  },
+  {
+    "id": "math_0384",
+    "problem": "Find the value of (x + 1)^2 when x = 386.",
+    "ground_truth": "149769",
+    "target_val": 149769
+  },
+  {
+    "id": "math_0385",
+    "problem": "Find the value of (x + 1)^2 when x = 387.",
+    "ground_truth": "150544",
+    "target_val": 150544
+  },
+  {
+    "id": "math_0386",
+    "problem": "Find the value of (x + 1)^2 when x = 388.",
+    "ground_truth": "151321",
+    "target_val": 151321
+  },
+  {
+    "id": "math_0387",
+    "problem": "Find the value of (x + 1)^2 when x = 389.",
+    "ground_truth": "152100",
+    "target_val": 152100
+  },
+  {
+    "id": "math_0388",
+    "problem": "Find the value of (x + 1)^2 when x = 390.",
+    "ground_truth": "152881",
+    "target_val": 152881
+  },
+  {
+    "id": "math_0389",
+    "problem": "Find the value of (x + 1)^2 when x = 391.",
+    "ground_truth": "153664",
+    "target_val": 153664
+  },
+  {
+    "id": "math_0390",
+    "problem": "Find the value of (x + 1)^2 when x = 392.",
+    "ground_truth": "154449",
+    "target_val": 154449
+  },
+  {
+    "id": "math_0391",
+    "problem": "Find the value of (x + 1)^2 when x = 393.",
+    "ground_truth": "155236",
+    "target_val": 155236
+  },
+  {
+    "id": "math_0392",
+    "problem": "Find the value of (x + 1)^2 when x = 394.",
+    "ground_truth": "156025",
+    "target_val": 156025
+  },
+  {
+    "id": "math_0393",
+    "problem": "Find the value of (x + 1)^2 when x = 395.",
+    "ground_truth": "156816",
+    "target_val": 156816
+  },
+  {
+    "id": "math_0394",
+    "problem": "Find the value of (x + 1)^2 when x = 396.",
+    "ground_truth": "157609",
+    "target_val": 157609
+  },
+  {
+    "id": "math_0395",
+    "problem": "Find the value of (x + 1)^2 when x = 397.",
+    "ground_truth": "158404",
+    "target_val": 158404
+  },
+  {
+    "id": "math_0396",
+    "problem": "Find the value of (x + 1)^2 when x = 398.",
+    "ground_truth": "159201",
+    "target_val": 159201
+  },
+  {
+    "id": "math_0397",
+    "problem": "Find the value of (x + 1)^2 when x = 399.",
+    "ground_truth": "160000",
+    "target_val": 160000
+  },
+  {
+    "id": "math_0398",
+    "problem": "Find the value of (x + 1)^2 when x = 400.",
+    "ground_truth": "160801",
+    "target_val": 160801
+  },
+  {
+    "id": "math_0399",
+    "problem": "Find the value of (x + 1)^2 when x = 401.",
+    "ground_truth": "161604",
+    "target_val": 161604
+  },
+  {
+    "id": "math_0400",
+    "problem": "Find the value of (x + 1)^2 when x = 402.",
+    "ground_truth": "162409",
+    "target_val": 162409
+  },
+  {
+    "id": "math_0401",
+    "problem": "Find the value of (x + 1)^2 when x = 403.",
+    "ground_truth": "163216",
+    "target_val": 163216
+  },
+  {
+    "id": "math_0402",
+    "problem": "Find the value of (x + 1)^2 when x = 404.",
+    "ground_truth": "164025",
+    "target_val": 164025
+  },
+  {
+    "id": "math_0403",
+    "problem": "Find the value of (x + 1)^2 when x = 405.",
+    "ground_truth": "164836",
+    "target_val": 164836
+  },
+  {
+    "id": "math_0404",
+    "problem": "Find the value of (x + 1)^2 when x = 406.",
+    "ground_truth": "165649",
+    "target_val": 165649
+  },
+  {
+    "id": "math_0405",
+    "problem": "Find the value of (x + 1)^2 when x = 407.",
+    "ground_truth": "166464",
+    "target_val": 166464
+  },
+  {
+    "id": "math_0406",
+    "problem": "Find the value of (x + 1)^2 when x = 408.",
+    "ground_truth": "167281",
+    "target_val": 167281
+  },
+  {
+    "id": "math_0407",
+    "problem": "Find the value of (x + 1)^2 when x = 409.",
+    "ground_truth": "168100",
+    "target_val": 168100
+  },
+  {
+    "id": "math_0408",
+    "problem": "Find the value of (x + 1)^2 when x = 410.",
+    "ground_truth": "168921",
+    "target_val": 168921
+  },
+  {
+    "id": "math_0409",
+    "problem": "Find the value of (x + 1)^2 when x = 411.",
+    "ground_truth": "169744",
+    "target_val": 169744
+  },
+  {
+    "id": "math_0410",
+    "problem": "Find the value of (x + 1)^2 when x = 412.",
+    "ground_truth": "170569",
+    "target_val": 170569
+  },
+  {
+    "id": "math_0411",
+    "problem": "Find the value of (x + 1)^2 when x = 413.",
+    "ground_truth": "171396",
+    "target_val": 171396
+  },
+  {
+    "id": "math_0412",
+    "problem": "Find the value of (x + 1)^2 when x = 414.",
+    "ground_truth": "172225",
+    "target_val": 172225
+  },
+  {
+    "id": "math_0413",
+    "problem": "Find the value of (x + 1)^2 when x = 415.",
+    "ground_truth": "173056",
+    "target_val": 173056
+  },
+  {
+    "id": "math_0414",
+    "problem": "Find the value of (x + 1)^2 when x = 416.",
+    "ground_truth": "173889",
+    "target_val": 173889
+  },
+  {
+    "id": "math_0415",
+    "problem": "Find the value of (x + 1)^2 when x = 417.",
+    "ground_truth": "174724",
+    "target_val": 174724
+  },
+  {
+    "id": "math_0416",
+    "problem": "Find the value of (x + 1)^2 when x = 418.",
+    "ground_truth": "175561",
+    "target_val": 175561
+  },
+  {
+    "id": "math_0417",
+    "problem": "Find the value of (x + 1)^2 when x = 419.",
+    "ground_truth": "176400",
+    "target_val": 176400
+  },
+  {
+    "id": "math_0418",
+    "problem": "Find the value of (x + 1)^2 when x = 420.",
+    "ground_truth": "177241",
+    "target_val": 177241
+  },
+  {
+    "id": "math_0419",
+    "problem": "Find the value of (x + 1)^2 when x = 421.",
+    "ground_truth": "178084",
+    "target_val": 178084
+  },
+  {
+    "id": "math_0420",
+    "problem": "Find the value of (x + 1)^2 when x = 422.",
+    "ground_truth": "178929",
+    "target_val": 178929
+  },
+  {
+    "id": "math_0421",
+    "problem": "Find the value of (x + 1)^2 when x = 423.",
+    "ground_truth": "179776",
+    "target_val": 179776
+  },
+  {
+    "id": "math_0422",
+    "problem": "Find the value of (x + 1)^2 when x = 424.",
+    "ground_truth": "180625",
+    "target_val": 180625
+  },
+  {
+    "id": "math_0423",
+    "problem": "Find the value of (x + 1)^2 when x = 425.",
+    "ground_truth": "181476",
+    "target_val": 181476
+  },
+  {
+    "id": "math_0424",
+    "problem": "Find the value of (x + 1)^2 when x = 426.",
+    "ground_truth": "182329",
+    "target_val": 182329
+  },
+  {
+    "id": "math_0425",
+    "problem": "Find the value of (x + 1)^2 when x = 427.",
+    "ground_truth": "183184",
+    "target_val": 183184
+  },
+  {
+    "id": "math_0426",
+    "problem": "Find the value of (x + 1)^2 when x = 428.",
+    "ground_truth": "184041",
+    "target_val": 184041
+  },
+  {
+    "id": "math_0427",
+    "problem": "Find the value of (x + 1)^2 when x = 429.",
+    "ground_truth": "184900",
+    "target_val": 184900
+  },
+  {
+    "id": "math_0428",
+    "problem": "Find the value of (x + 1)^2 when x = 430.",
+    "ground_truth": "185761",
+    "target_val": 185761
+  },
+  {
+    "id": "math_0429",
+    "problem": "Find the value of (x + 1)^2 when x = 431.",
+    "ground_truth": "186624",
+    "target_val": 186624
+  },
+  {
+    "id": "math_0430",
+    "problem": "Find the value of (x + 1)^2 when x = 432.",
+    "ground_truth": "187489",
+    "target_val": 187489
+  },
+  {
+    "id": "math_0431",
+    "problem": "Find the value of (x + 1)^2 when x = 433.",
+    "ground_truth": "188356",
+    "target_val": 188356
+  },
+  {
+    "id": "math_0432",
+    "problem": "Find the value of (x + 1)^2 when x = 434.",
+    "ground_truth": "189225",
+    "target_val": 189225
+  },
+  {
+    "id": "math_0433",
+    "problem": "Find the value of (x + 1)^2 when x = 435.",
+    "ground_truth": "190096",
+    "target_val": 190096
+  },
+  {
+    "id": "math_0434",
+    "problem": "Find the value of (x + 1)^2 when x = 436.",
+    "ground_truth": "190969",
+    "target_val": 190969
+  },
+  {
+    "id": "math_0435",
+    "problem": "Find the value of (x + 1)^2 when x = 437.",
+    "ground_truth": "191844",
+    "target_val": 191844
+  },
+  {
+    "id": "math_0436",
+    "problem": "Find the value of (x + 1)^2 when x = 438.",
+    "ground_truth": "192721",
+    "target_val": 192721
+  },
+  {
+    "id": "math_0437",
+    "problem": "Find the value of (x + 1)^2 when x = 439.",
+    "ground_truth": "193600",
+    "target_val": 193600
+  },
+  {
+    "id": "math_0438",
+    "problem": "Find the value of (x + 1)^2 when x = 440.",
+    "ground_truth": "194481",
+    "target_val": 194481
+  },
+  {
+    "id": "math_0439",
+    "problem": "Find the value of (x + 1)^2 when x = 441.",
+    "ground_truth": "195364",
+    "target_val": 195364
+  },
+  {
+    "id": "math_0440",
+    "problem": "Find the value of (x + 1)^2 when x = 442.",
+    "ground_truth": "196249",
+    "target_val": 196249
+  },
+  {
+    "id": "math_0441",
+    "problem": "Find the value of (x + 1)^2 when x = 443.",
+    "ground_truth": "197136",
+    "target_val": 197136
+  },
+  {
+    "id": "math_0442",
+    "problem": "Find the value of (x + 1)^2 when x = 444.",
+    "ground_truth": "198025",
+    "target_val": 198025
+  },
+  {
+    "id": "math_0443",
+    "problem": "Find the value of (x + 1)^2 when x = 445.",
+    "ground_truth": "198916",
+    "target_val": 198916
+  },
+  {
+    "id": "math_0444",
+    "problem": "Find the value of (x + 1)^2 when x = 446.",
+    "ground_truth": "199809",
+    "target_val": 199809
+  },
+  {
+    "id": "math_0445",
+    "problem": "Find the value of (x + 1)^2 when x = 447.",
+    "ground_truth": "200704",
+    "target_val": 200704
+  },
+  {
+    "id": "math_0446",
+    "problem": "Find the value of (x + 1)^2 when x = 448.",
+    "ground_truth": "201601",
+    "target_val": 201601
+  },
+  {
+    "id": "math_0447",
+    "problem": "Find the value of (x + 1)^2 when x = 449.",
+    "ground_truth": "202500",
+    "target_val": 202500
+  },
+  {
+    "id": "math_0448",
+    "problem": "Find the value of (x + 1)^2 when x = 450.",
+    "ground_truth": "203401",
+    "target_val": 203401
+  },
+  {
+    "id": "math_0449",
+    "problem": "Find the value of (x + 1)^2 when x = 451.",
+    "ground_truth": "204304",
+    "target_val": 204304
+  },
+  {
+    "id": "math_0450",
+    "problem": "Find the value of (x + 1)^2 when x = 452.",
+    "ground_truth": "205209",
+    "target_val": 205209
+  },
+  {
+    "id": "math_0451",
+    "problem": "Find the value of (x + 1)^2 when x = 453.",
+    "ground_truth": "206116",
+    "target_val": 206116
+  },
+  {
+    "id": "math_0452",
+    "problem": "Find the value of (x + 1)^2 when x = 454.",
+    "ground_truth": "207025",
+    "target_val": 207025
+  },
+  {
+    "id": "math_0453",
+    "problem": "Find the value of (x + 1)^2 when x = 455.",
+    "ground_truth": "207936",
+    "target_val": 207936
+  },
+  {
+    "id": "math_0454",
+    "problem": "Find the value of (x + 1)^2 when x = 456.",
+    "ground_truth": "208849",
+    "target_val": 208849
+  },
+  {
+    "id": "math_0455",
+    "problem": "Find the value of (x + 1)^2 when x = 457.",
+    "ground_truth": "209764",
+    "target_val": 209764
+  },
+  {
+    "id": "math_0456",
+    "problem": "Find the value of (x + 1)^2 when x = 458.",
+    "ground_truth": "210681",
+    "target_val": 210681
+  },
+  {
+    "id": "math_0457",
+    "problem": "Find the value of (x + 1)^2 when x = 459.",
+    "ground_truth": "211600",
+    "target_val": 211600
+  },
+  {
+    "id": "math_0458",
+    "problem": "Find the value of (x + 1)^2 when x = 460.",
+    "ground_truth": "212521",
+    "target_val": 212521
+  },
+  {
+    "id": "math_0459",
+    "problem": "Find the value of (x + 1)^2 when x = 461.",
+    "ground_truth": "213444",
+    "target_val": 213444
+  },
+  {
+    "id": "math_0460",
+    "problem": "Find the value of (x + 1)^2 when x = 462.",
+    "ground_truth": "214369",
+    "target_val": 214369
+  },
+  {
+    "id": "math_0461",
+    "problem": "Find the value of (x + 1)^2 when x = 463.",
+    "ground_truth": "215296",
+    "target_val": 215296
+  },
+  {
+    "id": "math_0462",
+    "problem": "Find the value of (x + 1)^2 when x = 464.",
+    "ground_truth": "216225",
+    "target_val": 216225
+  },
+  {
+    "id": "math_0463",
+    "problem": "Find the value of (x + 1)^2 when x = 465.",
+    "ground_truth": "217156",
+    "target_val": 217156
+  },
+  {
+    "id": "math_0464",
+    "problem": "Find the value of (x + 1)^2 when x = 466.",
+    "ground_truth": "218089",
+    "target_val": 218089
+  },
+  {
+    "id": "math_0465",
+    "problem": "Find the value of (x + 1)^2 when x = 467.",
+    "ground_truth": "219024",
+    "target_val": 219024
+  },
+  {
+    "id": "math_0466",
+    "problem": "Find the value of (x + 1)^2 when x = 468.",
+    "ground_truth": "219961",
+    "target_val": 219961
+  },
+  {
+    "id": "math_0467",
+    "problem": "Find the value of (x + 1)^2 when x = 469.",
+    "ground_truth": "220900",
+    "target_val": 220900
+  },
+  {
+    "id": "math_0468",
+    "problem": "Find the value of (x + 1)^2 when x = 470.",
+    "ground_truth": "221841",
+    "target_val": 221841
+  },
+  {
+    "id": "math_0469",
+    "problem": "Find the value of (x + 1)^2 when x = 471.",
+    "ground_truth": "222784",
+    "target_val": 222784
+  },
+  {
+    "id": "math_0470",
+    "problem": "Find the value of (x + 1)^2 when x = 472.",
+    "ground_truth": "223729",
+    "target_val": 223729
+  },
+  {
+    "id": "math_0471",
+    "problem": "Find the value of (x + 1)^2 when x = 473.",
+    "ground_truth": "224676",
+    "target_val": 224676
+  },
+  {
+    "id": "math_0472",
+    "problem": "Find the value of (x + 1)^2 when x = 474.",
+    "ground_truth": "225625",
+    "target_val": 225625
+  },
+  {
+    "id": "math_0473",
+    "problem": "Find the value of (x + 1)^2 when x = 475.",
+    "ground_truth": "226576",
+    "target_val": 226576
+  },
+  {
+    "id": "math_0474",
+    "problem": "Find the value of (x + 1)^2 when x = 476.",
+    "ground_truth": "227529",
+    "target_val": 227529
+  },
+  {
+    "id": "math_0475",
+    "problem": "Find the value of (x + 1)^2 when x = 477.",
+    "ground_truth": "228484",
+    "target_val": 228484
+  },
+  {
+    "id": "math_0476",
+    "problem": "Find the value of (x + 1)^2 when x = 478.",
+    "ground_truth": "229441",
+    "target_val": 229441
+  },
+  {
+    "id": "math_0477",
+    "problem": "Find the value of (x + 1)^2 when x = 479.",
+    "ground_truth": "230400",
+    "target_val": 230400
+  },
+  {
+    "id": "math_0478",
+    "problem": "Find the value of (x + 1)^2 when x = 480.",
+    "ground_truth": "231361",
+    "target_val": 231361
+  },
+  {
+    "id": "math_0479",
+    "problem": "Find the value of (x + 1)^2 when x = 481.",
+    "ground_truth": "232324",
+    "target_val": 232324
+  },
+  {
+    "id": "math_0480",
+    "problem": "Find the value of (x + 1)^2 when x = 482.",
+    "ground_truth": "233289",
+    "target_val": 233289
+  },
+  {
+    "id": "math_0481",
+    "problem": "Find the value of (x + 1)^2 when x = 483.",
+    "ground_truth": "234256",
+    "target_val": 234256
+  },
+  {
+    "id": "math_0482",
+    "problem": "Find the value of (x + 1)^2 when x = 484.",
+    "ground_truth": "235225",
+    "target_val": 235225
+  },
+  {
+    "id": "math_0483",
+    "problem": "Find the value of (x + 1)^2 when x = 485.",
+    "ground_truth": "236196",
+    "target_val": 236196
+  },
+  {
+    "id": "math_0484",
+    "problem": "Find the value of (x + 1)^2 when x = 486.",
+    "ground_truth": "237169",
+    "target_val": 237169
+  },
+  {
+    "id": "math_0485",
+    "problem": "Find the value of (x + 1)^2 when x = 487.",
+    "ground_truth": "238144",
+    "target_val": 238144
+  },
+  {
+    "id": "math_0486",
+    "problem": "Find the value of (x + 1)^2 when x = 488.",
+    "ground_truth": "239121",
+    "target_val": 239121
+  },
+  {
+    "id": "math_0487",
+    "problem": "Find the value of (x + 1)^2 when x = 489.",
+    "ground_truth": "240100",
+    "target_val": 240100
+  },
+  {
+    "id": "math_0488",
+    "problem": "Find the value of (x + 1)^2 when x = 490.",
+    "ground_truth": "241081",
+    "target_val": 241081
+  },
+  {
+    "id": "math_0489",
+    "problem": "Find the value of (x + 1)^2 when x = 491.",
+    "ground_truth": "242064",
+    "target_val": 242064
+  },
+  {
+    "id": "math_0490",
+    "problem": "Find the value of (x + 1)^2 when x = 492.",
+    "ground_truth": "243049",
+    "target_val": 243049
+  },
+  {
+    "id": "math_0491",
+    "problem": "Find the value of (x + 1)^2 when x = 493.",
+    "ground_truth": "244036",
+    "target_val": 244036
+  },
+  {
+    "id": "math_0492",
+    "problem": "Find the value of (x + 1)^2 when x = 494.",
+    "ground_truth": "245025",
+    "target_val": 245025
+  },
+  {
+    "id": "math_0493",
+    "problem": "Find the value of (x + 1)^2 when x = 495.",
+    "ground_truth": "246016",
+    "target_val": 246016
+  },
+  {
+    "id": "math_0494",
+    "problem": "Find the value of (x + 1)^2 when x = 496.",
+    "ground_truth": "247009",
+    "target_val": 247009
+  },
+  {
+    "id": "math_0495",
+    "problem": "Find the value of (x + 1)^2 when x = 497.",
+    "ground_truth": "248004",
+    "target_val": 248004
+  },
+  {
+    "id": "math_0496",
+    "problem": "Find the value of (x + 1)^2 when x = 498.",
+    "ground_truth": "249001",
+    "target_val": 249001
+  },
+  {
+    "id": "math_0497",
+    "problem": "Find the value of (x + 1)^2 when x = 499.",
+    "ground_truth": "250000",
+    "target_val": 250000
+  },
+  {
+    "id": "math_0498",
+    "problem": "Find the value of (x + 1)^2 when x = 500.",
+    "ground_truth": "251001",
+    "target_val": 251001
+  },
+  {
+    "id": "math_0499",
+    "problem": "Find the value of (x + 1)^2 when x = 501.",
+    "ground_truth": "252004",
+    "target_val": 252004
+  },
+  {
+    "id": "math_0500",
+    "problem": "Find the value of (x + 1)^2 when x = 502.",
+    "ground_truth": "253009",
+    "target_val": 253009
+  }
+]

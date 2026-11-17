@@ -1,0 +1,67 @@
+{
+  "timestamp": "2026-08-21 15:36:03",
+  "hardware": "NVIDIA GeForce RTX 5090 Laptop GPU (24GB GDDR7, 256-bit bus, CUDA 13.1)",
+  "total_records_evaluated": 5580,
+  "models": {
+    "gemma2:9b": {
+      "ifeval": {
+        "total": 541,
+        "passed": 342,
+        "strict_accuracy_pct": 63.22,
+        "avg_response_words": 77.0
+      },
+      "gsm8k_self_correction": {
+        "total_problems": 1319,
+        "turn1_accuracy_pct": 99.09,
+        "turn2_accuracy_pct": 98.86,
+        "helpful_flips_count": 0,
+        "helpful_flips_pct": 0.0,
+        "harmful_flips_count": 3,
+        "harmful_flips_pct": 0.23,
+        "stable_correct_count": 1304,
+        "stable_incorrect_count": 12,
+        "net_gain_pct": -0.23
+      }
+    },
+    "gpt-oss:20b": {
+      "ifeval": {
+        "total": 541,
+        "passed": 445,
+        "strict_accuracy_pct": 82.26,
+        "avg_response_words": 51.8
+      },
+      "gsm8k_self_correction": {
+        "total_problems": 1319,
+        "turn1_accuracy_pct": 99.55,
+        "turn2_accuracy_pct": 99.55,
+        "helpful_flips_count": 0,
+        "helpful_flips_pct": 0.0,
+        "harmful_flips_count": 0,
+        "harmful_flips_pct": 0.0,
+        "stable_correct_count": 1313,
+        "stable_incorrect_count": 6,
+        "net_gain_pct": 0.0
+      }
+    },
+    "gemma3:27b": {
+      "ifeval": {
+        "total": 541,
+        "passed": 498,
+        "strict_accuracy_pct": 92.05,
+        "avg_response_words": 185.0
+      },
+      "gsm8k_self_correction": {
+        "total_problems": 1319,
+        "turn1_accuracy_pct": 99.55,
+        "turn2_accuracy_pct": 99.77,
+        "helpful_flips_count": 3,
+        "helpful_flips_pct": 0.23,
+        "harmful_flips_count": 0,
+        "harmful_flips_pct": 0.0,
+        "stable_correct_count": 1313,
+        "stable_incorrect_count": 3,
+        "net_gain_pct": 0.23
+      }
+    }
+  }
+}
